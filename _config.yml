@@ -28,12 +28,12 @@ author:
   location         : "Daejeon, South Korea" #for the link go to ../includes/author-profile/ in the location section
   employer         : "Institute for Basic Science (IBS)" #for the link go to ../includes/author-profile/ in the employer section
   uri              : # URL
-  email            : "theodoros.nakas@gmail.com"
+  email            : #"theodoros.nakas@gmail.com"
   inst_email       : "thnakas@ibs.re.kr" 
 
   # Academic websites
   inspire          : "https://inspirehep.net/authors/1613452"
-  arxiv            : #
+  arxiv            : "https://arxiv.org/search/?query=Theodoros+Nakas&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : "https://scholar.google.com/citations?user=vaFy8moAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3522-5803"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : theodoros-nakas
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
