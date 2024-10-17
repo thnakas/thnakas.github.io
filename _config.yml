@@ -29,7 +29,7 @@ author:
   employer         : "Institute for Basic Science (IBS)" #the website needs to be written in the directory: ../includes/author-profile/ in the employer section
   uri              : # URL
   email            : "theodoros.nakas@gmail.com"
-  inst-email       : "thnakas@ibs.re.kr" 
+  inst_email       : "thnakas@ibs.re.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
