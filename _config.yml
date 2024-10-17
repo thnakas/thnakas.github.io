@@ -25,8 +25,8 @@ author:
   name             : "Theodoros Nakas"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Physicist | Researcher at IBS"
-  location         : "Daejeon, South Korea" #the google-maps link of the institute should be added in the directory: ../includes/author-profile/ in the location section# 
-  employer         : "Institute for Basic Science (IBS)" #the website needs to be written in the directory: ../includes/author-profile/ in the employer section#
+  location         : "Daejeon, South Korea" #for the link go to ../includes/author-profile/ in the location section
+  employer         : "Institute for Basic Science (IBS)" #for the link go to ../includes/author-profile/ in the employer section
   uri              : # URL
   email            : "theodoros.nakas@gmail.com"
   inst_email       : "thnakas@ibs.re.kr" 
