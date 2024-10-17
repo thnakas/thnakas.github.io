@@ -11,7 +11,8 @@ locale                   : "Daejeon, South Korea"
 title                    : "Theodoros' Homepage"
 title_separator          : "-"
 name                     : &name "Theodoros Nakas"
-description              : &description "Theoretical Physicist\\ Researcher at IBS"
+description              : &description "Theoretical Physicist \\ \\
+                                         Researcher at IBS"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Physicist | Researcher at IBS"
   location         : "Daejeon, South Korea" #for the link go to ../includes/author-profile/ in the location section
-  employer         : "Institute for Basic Science (IBS)" #for the link go to ../includes/author-profile/ in the employer section
+  employer         : "CTPU-CGA, Institute for Basic Science (IBS)" #for the link go to ../includes/author-profile/ in the employer section
   uri              : # URL
   email            : "theodoros.nakas@gmail.com"
   inst_email       : "thnakas@ibs.re.kr" 
