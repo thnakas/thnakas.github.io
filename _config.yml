@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Physicist | Researcher at IBS"
   location         : "[Institute for Basic Science (IBS)](https://www.ibs.re.kr/eng.do)"
-  employer         : "<a href="{{https://www.ibs.re.kr/eng.do}}">Institute for Basic Science (IBS)</a>"
+  employer         : "IBS"
   uri              : # URL
   email            : "thnakas@ibs.re.kr" 
 
