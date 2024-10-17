@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Theodoros Nakas"
   pronouns         : # example: "she/her"  
-  bio              : "Theoretical Physicist\n Researcher at IBS"
+  bio              : "Theoretical Physicist <br> Researcher at IBS"
   location         : "Daejeon, South Korea" #for the link go to ../includes/author-profile/ in the location section
   employer         : "CTPU-CGA, Institute for Basic Science (IBS)" #for the link go to ../includes/author-profile/ in the employer section
   uri              : # URL
