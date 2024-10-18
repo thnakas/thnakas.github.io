@@ -92,12 +92,12 @@
       }
 
       &.current {
-        color: #000;//#fff;
+        color: #fff;
         background: $primary-color;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: #000;//mix(#fff, $gray, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
