@@ -350,4 +350,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: Architect
+theme: jekyll-theme-architext
