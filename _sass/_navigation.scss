@@ -164,7 +164,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid #000;//$border-color;
+  border-top: 1px solid $border-color;
 }
 
 
@@ -175,17 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #000;//$background-color;
+  background: $background-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #000;//$masthead-link-color;
+    color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
-      color: #000;//$masthead-link-color-hover;
+      color: $masthead-link-color-hover;
     }
   }
 
@@ -301,7 +301,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid #000;//$border-color;
 
       &:last-child {
         border-bottom: none;
@@ -336,10 +336,10 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: #000;//#fff;
     font-weight: bold;
-    background: $primary-color;
-    border-radius: $border-radius;
+    background: #000;//$primary-color;
+    border-radius: #000;//$border-radius;
 
     &:hover {
       color: #fff;
