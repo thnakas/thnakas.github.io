@@ -58,8 +58,8 @@ $sidebar-link-max-width     : 250px;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#6d6c6c, $gray, 50%);
-$lighter-gray               : mix(#a5a2a2, $gray, 90%);
+$light-gray                 : mix(#a7a3a3, $gray, 50%);
+$lighter-gray               : mix(#c4c0c0, $gray, 90%);
 
 $body-color                 : #b92f2f;
 $background-color           : #883f3f;
@@ -104,7 +104,7 @@ $xing-color                 : #006567;
 /* links */
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#7f3535, $link-color, 25%);
+$link-color-visited         : mix(#473c86, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
