@@ -142,7 +142,7 @@
     .page__meta,
     .page__lead,
     .btn {
-      color: #913434;
+      color: #ffffff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
@@ -172,7 +172,7 @@
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #ac4444;
+  color: #ffffff;
   font-family: $caption-font-family;
   font-size: $type-size-7;
   background: #000;
@@ -186,7 +186,7 @@
   }
 
   a {
-    color: #9e3f3f;
+    color: #ffffff;
     text-decoration: none;
   }
 }
@@ -227,7 +227,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: mix(#9e4343, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
 
