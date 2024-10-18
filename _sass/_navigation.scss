@@ -131,12 +131,12 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: #000;//mix(#fff, $gray, 50%);
+    color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
     &:hover {
-      color: #000;//$link-color-hover;
+      color: $link-color-hover;
     }
 
     &:first-child {
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: #000;//mix(#fff, $gray, 75%);
+      color: mix(#fff, $gray, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -164,7 +164,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid #000;//$border-color;
 }
 
 
@@ -175,17 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #000;//$background-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #000;//$masthead-link-color;
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #000;//$masthead-link-color-hover;
     }
   }
 
