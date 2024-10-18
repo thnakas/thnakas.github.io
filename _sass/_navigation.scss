@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: #000;//mix(#fff, $gray, 75%);
+        color: mix(#fff, $gray, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,12 +131,12 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    color: #000;//mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
     &:hover {
-      color: $link-color-hover;
+      color: #000;//$link-color-hover;
     }
 
     &:first-child {
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: #000;//mix(#fff, $gray, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }
