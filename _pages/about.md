@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Theo's"
-excerpt: "Theo's"
+title: "Theodoros'"
+excerpt: "Theodoros'"
 author_profile: true
 redirect_from: 
   - /about/
