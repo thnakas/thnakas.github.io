@@ -82,13 +82,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sandesh Bhat"
-  avatar           : "sandesh.jpg"
-  bio              : "Research Fellow,<br>
-                      Motion Analysis Laboratory,<br>
-                      Division of Orthopedic Surgery,<br>
-                      Mayo Clinic."
-  location         : "Rochester, MN, USA"
+  name             : "Theodoros Nakas"
+  avatar           : "Theodoros_Nakas.png"
+  bio              : "Theoretical Physicist"
+  location         : "Deajeon, South Korea"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
   email            : "mrsandeshbhat@gmail.com"
