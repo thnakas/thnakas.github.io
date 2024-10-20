@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae (long) [PDF](https://DrSGBhat.github.io/files/Bhat_CV.pdf)
+Curriculum Vitae (long) [PDF](https://thnakas.github.io/files/Bhat_CV.pdf)
 
 
 Education
