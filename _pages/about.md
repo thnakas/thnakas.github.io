@@ -10,7 +10,7 @@ redirect_from:
 
 <div align="justify">
 
-I am a Theoretical Physicist, exploring Modified Gravitational Theories, Extra-Dimensional Theories of Gravity & Investigating Novel Hairy (yup, this is a thing 🙃) Compact-Object Solutions such as Black-Hole Solutions 🕳️<br><br>
+I am a Theoretical Physicist, exploring Modified Gravitational Theories, Extra-Dimensional Theories of Gravity & Investigating Novel Hairy (yup, this is a thing 🙃) Compact-Object Solutions such as Black-Hole Solutions 🕳️.<br><br>
 
 My research involves model building, mathematical formulations, and rigorous analysis of new frameworks to expand upon Einstein's General Relativity.<br><br>
 
