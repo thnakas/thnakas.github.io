@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   # - title: "Awards & Honors"
   #   url: /awards/
@@ -15,11 +15,11 @@ main:
   #- title: "Photography"
   #  url: /Photography/    
     
-  - title: "My Travel"
-    url: /mytravel/
+  - title: "Talks"
+    url: /talks/
         
-  - title: "Student Advocacy"
-    url: /stuadv/
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Contact"
     url: /contact/  
