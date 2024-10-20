@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae (long) [PDF](https://thnakas.github.io/files/Bhat_CV.pdf)
+<div align="center">
+Curriculum Vitae (long) [PDF](https://thnakas.github.io/files/Bhat_CV.pdf) </div>
 
 
 Education
