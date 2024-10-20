@@ -9,8 +9,10 @@ author_profile: true
 
 Rochester, MN<br>
 
-Email: mrsandeshbhat [at] gmail [dot] com
+Personal email: theodoros.nakas@gmail.com
 
-LinkedIn: [<font color="#52ADC8">DrSGBhat</font>](https://in.linkedin.com/in/mrsandeshbhat)
+Institutial email: thnakas@ibs.re.kr
+
+<li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
 
 <!-- <embed src="https://www.linkedin.com/in/mrsandeshbhat" width="650" height="1800" type='application/pdf'> -->
