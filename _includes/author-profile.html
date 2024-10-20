@@ -26,7 +26,7 @@
         <li><a href="https://en.wikipedia.org/wiki/Daejeon"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="https://www.ibs.re.kr/eng.do"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</a></li>
+        <li><a href="https://www.ibs.re.kr/eng.do"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i> {{ author.employer }}</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -44,9 +44,6 @@
       {% endif %}
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
-      {% endif %}
-      {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fa fa-fw fa-researchgate-square icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
@@ -67,6 +64,7 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}
 
+      <!-- Font Awesome icons / Social media -->
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -132,12 +130,6 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
-      {% endif %}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
-      {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
