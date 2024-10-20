@@ -10,7 +10,8 @@ redirect_from:
 
 <div align="justify">
 
-I am a Theoretical Physicist, exploring <b>Modified Gravitational Theories</b>, <b>Extra-Dimensional Theories of Gravity</b> & investigating <b>Novel Hairy</b> (yup, this is a thing 🙃) <b>Compact-Object Solutions</b> such as <b>Black-Hole Solutions</b> 🕳️.<br><br>
+I am a Theoretical Physicist and a Senior Researcher at the <a href="https://ibs.re.kr/eng.do">Institute for Basic Science (IBS)</a> in the Center for Theoretical Physics of the Universe (CTPU) in the <a href="https://ibs.re.kr/ctpu-cga/">Cosmology, Gravity and Astroparticle Physics Group (CGA)</a>.
+My main research interests lie in the fields of <b>Modified Gravitational Theories</b>, <b>Higher-Dimensional Theories of Gravity</b> & the study of <b>Novel Hairy</b> (yup, this is a thing 🙃) <b>Compact-Object Solutions</b> such as <b>Black-Hole Solutions</b> 🕳️.<br><br>
 
 My research involves <i>model building, mathematical formulations, and rigorous analysis of new frameworks</i> to expand upon Einstein's General Relativity.<br><br>
 
