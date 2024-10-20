@@ -11,7 +11,7 @@ Daejeon, South Korea<br>
 
 <li><a href="mailto:{{ theodoros.nakas@gmail.com }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Personal email: theodoros.nakas@gmail.com </a></li>
 
-<li><a href="mailto:{{ thnakas@ibs.re.kr }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Institutional email: theodoros.nakas@gmail.com </a></li>
+<li><a href="mailto:{{ thnakas@ibs.re.kr }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Institutional email: thnakas@ibs.re.kr </a></li>
 
 <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> Theodoros Nakas</a></li>
 
