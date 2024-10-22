@@ -5,7 +5,11 @@ author_profile: true
 ---
 
 <style>
-  p {  }
+  p { display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;}
   .rnp-title {
     font-size: 18px;
   }
@@ -26,7 +30,7 @@ author_profile: true
 <BR> Feb 19, 2024
 <i class="fa fa-fw fa-calendar"></i>
 <BR>
-<p class="rnp body">Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <b>Theodoros Nakas</b>, and Eleftherios Papantonopoulos,
+<p class="rnp-body">Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <b>Theodoros Nakas</b>, and Eleftherios Papantonopoulos,
 "Exact black holes in string-inspired Euler-Heisenberg theory", <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2.</p>
 <BR>
 <br>
