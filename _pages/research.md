@@ -17,7 +17,7 @@ author_profile: true
 <br> 
 <ul>
   <li><span style="color:blue;">Authors:</span> Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, Theodoros Nakas, and Eleftherios Papantonopoulos</li>
-  <li><span style="color:#c9c2a7;">Journal:</span> <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2. </li>
+  <li><span style="color: rgb(201, 194, 167);">Journal:</span> <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2. </li>
   <li><span style="color:#c9c2a7;">arXiv:</span> PDF </li>
 </ul>
 
