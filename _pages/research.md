@@ -12,11 +12,11 @@ author_profile: true
 
 <div align="justify">
 
-<a href="https://arxiv.org/abs/2402.12459"><b>Exact black holes in string-inspired Euler-Heisenberg theory</b></a>
+<h2><a href="https://arxiv.org/abs/2402.12459"><b>Exact black holes in string-inspired Euler-Heisenberg theory</b></a></h2>
 <br> 
 <i class="fa fa-fw fa-calendar"></i> Feb 19, 2024<br>
 <br>
-  <h1>Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <b>Theodoros Nakas</b>, and Eleftherios Papantonopoulos, "Exact black holes in string-inspired Euler-Heisenberg theory", <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2.</h1>
+  <h5>Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <b>Theodoros Nakas</b>, and Eleftherios Papantonopoulos, "Exact black holes in string-inspired Euler-Heisenberg theory", <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2.</h5>
 
 </div>
 
@@ -25,10 +25,10 @@ author_profile: true
 
 <div align="justify">
 
-<a href="https://arxiv.org/abs/2402.12459"><b>Exact black holes in string-inspired Euler-Heisenberg theory</b></a>
+<a href="https://arxiv.org/abs/2402.12459"><h2><b>Exact black holes in string-inspired Euler-Heisenberg theory</b></h2></a>
 <br> 
 <i class="fa fa-fw fa-calendar"></i> Feb 19, 2024<br>
 <br>
-  <h1>Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <b>Theodoros Nakas</b>, and Eleftherios Papantonopoulos, "Exact black holes in string-inspired Euler-Heisenberg theory", <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2.</h1>
+  <h4>Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <b>Theodoros Nakas</b>, and Eleftherios Papantonopoulos, "Exact black holes in string-inspired Euler-Heisenberg theory", <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2.</h4>
 
 </div>
