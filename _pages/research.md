@@ -34,7 +34,7 @@ Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <span style="colo
 </a>
 &nbsp;
 <a href="https://inspirehep.net/literature/2759932" class="btn">
-  <i class="ai ai-inspire ai-fw">&nbsp; cite</i> 
+  <i class="ai ai-inspire ai-fw">&nbsp; &nbsp; &nbsp; &nbsp; cite</i> 
 </a>
 
 <!-- <i class="ai ai-arxiv ai-fw icon-pad-right; background-color:red"></i> -->
