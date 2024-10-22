@@ -7,9 +7,9 @@ author_profile: true
 For proper citations, refer [INSPIRE-HEP](https://inspirehep.net/authors/1613452?ui-citation-summary=true)<br>
 <br>
 <br>
-<b>[Characterization of elbow flexion torque after nerve reconstruction of patients with traumatic brachial plexus injury](http://DrSGBhat.github.io/publications/ClinBio23)</b> <br>
-<i><b>Sandesh G Bhat</b></i>, Eric J Noonan, Griffin Mess, Emily J Miller, Alexander Y Shin, Kenton R Kaufman.<br>
-<i>Clinical Biomechanics</i>.
+<b>[Exact black holes in string-inspired Euler-Heisenberg theory](http://thnakas.github.io/publications/2402.12459)</b> <br>
+<i><b>A1</b></i>, A2, A3.<br>
+<i>Feb 19, 2024</i>.
 <br>
 <br>
 
