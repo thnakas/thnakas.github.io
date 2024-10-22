@@ -28,7 +28,7 @@ Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <span style="colo
 <br>
 
 <a href="https://doi.org/10.1103/PhysRevD.110.024014">
-  <button> Article </button>
+  <button> <i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv </button>
 </a>
 
 </div>
