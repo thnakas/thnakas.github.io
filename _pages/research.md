@@ -37,19 +37,38 @@ Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <span style="colo
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
-<!-- <i class="ai ai-arxiv ai-fw icon-pad-right; background-color:red"></i> -->
-
 </div>
 
 <BR>
 <br>
 
+<!-- ------------ -->
+
 <div align="justify">
 
-<a href="https://arxiv.org/abs/2402.12459"><h2><b>Exact black holes in string-inspired Euler-Heisenberg theory</b></h2></a>
-<br> 
-<i class="fa fa-fw fa-calendar"></i> Feb 19, 2024<br>
+<h2><a href="https://arxiv.org/abs/2312.17198">Compact objects with primary hair in shift and parity symmetric beyond Horndeski gravities</a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
 <br>
-  <h4>Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <b>Theodoros Nakas</b>, and Eleftherios Papantonopoulos, "Exact black holes in string-inspired Euler-Heisenberg theory", <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2.</h4>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote> In this work, we delve into the model of the shift symmetric and parity-preserving Beyond Horndeski theory in all its generality. We present an explicit algorithm to extract static and spherically symmetric black holes with primary scalar charge adhering to the conservation of the Noether current emanating from the shift symmetry. We show that when the functionals $G_2$ and $G_4$ of the theory are linearly dependent, analytic homogeneous black-hole solutions exist, which can become regular by virtue of the primary charge contribution. Such geometries can easily enjoy the preservation of the Weak Energy Conditions, elevating them into healthier compact objects than most hairy black holes in modified theories of gravity. Finally, we revisit the concept of disformal transformations as a solution-generating mechanism and discuss the case of generic G2 and G4 functionals. </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
 
 </div>
