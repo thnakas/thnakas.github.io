@@ -28,13 +28,13 @@ Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <span style="colo
 <a href="https://arxiv.org/pdf/2402.12459" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
-
+&nbsp;
 <a href="https://doi.org/10.1103/PhysRevD.110.024014" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
-
+&nbsp;
 <a href="https://inspirehep.net/literature/2759932" class="btn">
-  <i class="ai ai-inspire ai-fw icon-pad-right"> cite</i> 
+  <i class="ai ai-inspire ai-fw"> cite</i> 
 </a>
 
 <!-- <i class="ai ai-arxiv ai-fw icon-pad-right; background-color:red"></i> -->
