@@ -16,9 +16,9 @@ author_profile: true
 <i class="fa fa-fw fa-calendar"></i> Feb 19, 2024
 <br> 
 <ul>
-  <li><span style="color:blue;">Authors:</span> Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, Theodoros Nakas, and Eleftherios Papantonopoulos</li>
-  <li><span style="color:$text-color;">Journal:</span> <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2. </li>
-  <li><span style="color:$text-color;">arXiv:</span> PDF </li>
+  <li><span style="color:blue;">Authors:</span> Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <span style="color:orange">Theodoros Nakas</span>, and Eleftherios Papantonopoulos</li>
+  <li><span style="color:orange;">Journal:</span> <i><u>Phys.Rev.D</u></i> 110 (2024)2, 2. </li>
+  <li><span style="color:yellow;">arXiv:</span> PDF </li>
 </ul>
 
 </div>
