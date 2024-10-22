@@ -1,8 +1,8 @@
 # main links links
 main:
   
-  #- title: "Research & Publications"
-  #  url: /publications/
+  - title: "Research & Publications"
+    url: /research/
 
   # - title: "Awards & Honors"
   #   url: /awards/
@@ -13,8 +13,8 @@ main:
   #- title: "Photography"
   #  url: /Photography/    
     
-  #- title: "Talks"
-  #  url: /talks/
+  - title: "Talks"
+    url: /talks2/
         
   - title: "Teaching"
     url: /teaching/
