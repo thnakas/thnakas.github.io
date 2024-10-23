@@ -82,7 +82,7 @@ Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodor
 
 <h2><a href="https://arxiv.org/abs/2310.11919">Black holes with primary scalar hair</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Oct 18, 2023
 
 <br>
 <br> 
@@ -114,28 +114,28 @@ Athanasios Bakopoulos, Christos Charmousis, Panagiota Kanti, Nicolas Lecoeur, an
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198">Bridging dimensions: General embedding algorithm and field-theory reconstruction in 5D braneworld models</a></h2>
+<h2><a href="https://arxiv.org/abs/2309.00873">Bridging dimensions: General embedding algorithm and field-theory reconstruction in 5D braneworld models</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Sep 2, 2023
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+<span style="color:orange">Theodoros Nakas</span>, Thomas D. Pappas, and Zdeněk Stuchlík
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> We develop a general algorithm that enables the consistent embedding of any four-dimensional static and spherically symmetric geometry into any five-dimensional single-brane braneworld model, characterized by an injective and nonsingular warp factor. Furthermore, we supplement the algorithm by introducing a method that allows one to, in principle, reconstruct 5D field theories that support the aforementioned geometries. This approach is based on a conformal transformation of the metric with the conformal factor being identified with the warp factor of the bulk geometry. The reconstructed theories depend solely on the induced brane geometry, since the warp factor is model-independently represented by a scalar field in the Lagrangian density. As a first application of our reconstruction method, we present for the first time a complete theory that supports the five-dimensional brane-localized extension of the Schwarzschild black hole, for any warp factor. The same method is subsequently utilized to illustrate the process of coherently embedding a de Sitter brane in braneworld models. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/2309.00873" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1103/PhysRevD.109.L041501" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/2693519" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
