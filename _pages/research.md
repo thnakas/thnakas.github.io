@@ -180,7 +180,7 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2107.05656"></a> Analytic and asymptotically flat hairy (ultra-compact) black-hole solutions and their axial perturbations </h2>
+<h2><a href="https://arxiv.org/abs/2107.05656"> Analytic and asymptotically flat hairy (ultra-compact) black-hole solutions and their axial perturbations </a></h2>
 
 <i class="fa fa-fw fa-calendar"></i> Jul 12, 2021
 
@@ -214,28 +214,28 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/2105.06915"> Analytic and exponentially localized brane-world Reissner-Nordström-AdS solution: a top-down approach </a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> May 14, 2021
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+<span style="color:orange">Theodoros Nakas</span>, and Panagiota Kanti
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> In this work, we construct a five-dimensional spherically-symmetric, charged and asymptotically Anti-de Sitter black hole with its singularity being point-like and strictly localised on our brane. In addition, the induced brane geometry is described by a Reissner-Nordström-(A)dS line-element. We perform a careful classification of the horizons, and demonstrate that all of them are exponentially localised close to the brane thus exhibiting a pancake shape. The bulk gravitational background is everywhere regular, and reduces to an AdS5 spacetime right outside the black-hole event horizon. This geometry is supported by an anisotropic fluid with only two independent components, the energy density \(\rho_E\) and tangential pressure \(p_2\). All energy conditions are respected close to and on our brane, but a local violation takes place within the event horizon regime in the bulk. A tensor-vector-scalar field-theory model is built in an attempt to realise the necessary bulk matter, however, in order to do so, both gauge and scalar degrees of freedom need to turn phantom-like at the bulk boundary. The study of the junction conditions reveals that no additional matter needs to be introduced on the brane for its consistent embedding in the bulk geometry apart from its constant, positive tension. We finally compute the effective gravitational equations on the brane, and demonstrate that the Reissner-Nordström-(A)dS geometry on our brane is caused by the combined effect of the five-dimensional geometry and bulk matter with its charge being in fact a tidal charge. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/2105.06915" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1103/PhysRevD.104.104037" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/1863347" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
