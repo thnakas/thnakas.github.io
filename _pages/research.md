@@ -248,28 +248,28 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/2012.09199"> Localized brane-world black hole analytically connected to an AdS\(_5\) boundary </a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Dec 16, 2020
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+<span style="color:orange">Theodoros Nakas</span>, and Panagiota Kanti
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> We construct from first principles the geometry of an analytic, exponentially localized five-dimensional brane-world black hole. The black-hole singularity lies entirely on the 3-brane, while the event horizon is shown to have a pancake shape. The induced line-element on the brane assumes the form of the Schwarzschild solution while the bulk geometry is effectively AdS5 outside the horizon. The derived geometry is supported by an anisotropic fluid in the bulk described only by two independent components, the energy density and tangential pressure, whereas no matter needs to be introduced on the brane for its consistent embedding in the bulk. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/2012.09199" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1016/j.physletb.2021.136278" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/1837091" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
@@ -282,28 +282,28 @@ Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodor
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/2010.00025">Fermions and baryons as open-string states from brane junctions</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Sep 30, 2020
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+<span style="color:orange">Theodoros Nakas</span>, and Konstantinos Rigatos
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> There has been recent progress towards understanding the dynamics of world-volume fermions that arise as open-string modes from brane intersections in the probe limit (Nf/Nc→0). In this work we consider all possible BPS brane junctions in Type IIA/B supergravity theories. We study in detail the dynamics of these states by deriving their equations of motion. We show the expected degeneracy of the bosonic and fermionic fluctuations as is expected due to the preserved supersymmetry. We also give some supporting evidence and refine the notion that these states can effectively describe baryon operators in a certain regime of the field theory's parameter space. Our piece of evidence is the demonstration of the expected scaling of the mass in the large-Nc limit of the theory for these fermionic states; M2∼N2c. Finally, we explain analytically the avoided level crossing that was observed in a previous work after the inclusion of higher dimension operators in the field theory. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/2010.00025" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1007/JHEP12(2020)157" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/1820614" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
@@ -316,28 +316,28 @@ Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodor
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/2001.07226">Incorporating Physical Constraints in Braneworld Black-String Solutions for a Minkowski Brane in Scalar-Tensor Gravity</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Jan 20, 2020
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+<span style="color:orange">Theodoros Nakas</span>, Panagiota Kanti, and Nikolaos Pappas
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> In the framework of a general scalar-tensor theory, where the scalar field is non-minimally coupled to the five-dimensional Ricci scalar curvature, we investigate the emergence of complete brane-world solutions. By assuming a variety of forms for the coupling function, we solve the field equations in the bulk, and determine in an analytic way the form of the gravitational background and scalar field in each case. The solutions are always characterized by a regular scalar field, a finite energy-momentum tensor, and an exponentially decaying warp factor even in the absence of a negative bulk cosmological constant. The space-time on the brane is described by the Schwarzschild solution leading to either a non-homogeneous black-string solution in the bulk, when the mass parameter \(M\) is non-zero, or a regular anti-de Sitter space-time, when \(M=0\). We construct physically-acceptable solutions by demanding in addition a positive effective gravitational constant on our brane, a positive total energy-density for our brane and the validity of the weak energy condition in the bulk. We find that, although the theory does not allow for all three conditions to be simultaneously satisfied, a plethora of solutions emerge which satisfy the first two, and most fundamental, conditions. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/2001.07226" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1103/PhysRevD.101.084056" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/1776768" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
@@ -350,28 +350,28 @@ Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodor
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/1904.00216">New Black-String Solutions for an Anti-de Sitter Brane in Scalar-Tensor Gravity</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Mar 30, 2019
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+<span style="color:orange">Theodoros Nakas</span>, Nikolaos Pappas, and Panagiota Kanti
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> We consider a five-dimensional theory with a scalar field non-minimally-coupled to gravity, and we look for novel black-string solutions in the bulk. By appropriately choosing the non-minimal coupling function of the scalar field, we analytically solve the gravitational and scalar-field equations in the bulk to produce black-string solutions that describe a Schwarzschild-Anti-de Sitter space-time on the brane. We produce two complete such solutions that are both characterised by a regular scalar field, a localised-close-to-our brane energy-momentum tensor and a negative-definite, non-trivial bulk potential that may support by itself the warping of the space-time even in the absence of the traditional, negative, bulk cosmological constant. Despite the infinitely-long string singularity in the bulk, the four-dimensional effective theory on the brane is robust with the effective gravity scale being related to the fundamental one and the warping scale. It is worth noting that if we set the mass of the black hole on the brane equal to zero, the black string disappears leaving behind a regular brane-world model with only a true singularity at the boundary of the fifth dimension. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/1904.00216" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1103/PhysRevD.99.124040" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/1727567" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
@@ -384,28 +384,28 @@ Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodor
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/1807.06880">Anti-Gravitating Brane-World Solutions for a de Sitter Brane in Scalar-Tensor Gravity</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Jul 18, 2018
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+<span style="color:orange">Theodoros Nakas</span>, and Panagiota Kanti
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> In the context of a five-dimensional theory with a scalar field non-minimally-coupled to gravity, we look for solutions that describe novel black-string or maximally-symmetric solutions in the bulk. The brane line-element is found to describe a Schwarzschild-(Anti)-de Sitter spacetime, and, here, we choose to study solutions with a positive four-dimensional cosmological constant. We consider two different forms of the coupling function of the scalar field to the bulk scalar curvature, a linear and a quadratic one. In the linear case, we find solutions where the theory, close to our brane, mimics an ordinary gravitational theory with a minimally-coupled scalar field giving rise to an exponentially decreasing warp factor in the absence of a negative bulk cosmological constant. The solution is characterised by the presence of a normal gravity regime around our brane and an anti-gravitating regime away from it. In the quadratic case, there is no normal-gravity regime at all, however, scalar field and energy-momentum tensor components are well-defined and an exponentially decreasing warp factor emerges again. We demonstrate that, in the context of this theory, the emergence of a positive cosmological constant on our brane is always accompanied by an anti-gravitating regime in the five-dimensional bulk. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/1807.06880" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1103/PhysRevD.98.064025" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/1683017" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
