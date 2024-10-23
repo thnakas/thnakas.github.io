@@ -259,7 +259,7 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 
 <br>
 
-<blockquote> We construct from first principles the geometry of an analytic, exponentially localized five-dimensional brane-world black hole. The black-hole singularity lies entirely on the 3-brane, while the event horizon is shown to have a pancake shape. The induced line-element on the brane assumes the form of the Schwarzschild solution while the bulk geometry is effectively AdS5 outside the horizon. The derived geometry is supported by an anisotropic fluid in the bulk described only by two independent components, the energy density and tangential pressure, whereas no matter needs to be introduced on the brane for its consistent embedding in the bulk. </blockquote>
+<blockquote> We construct from first principles the geometry of an analytic, exponentially localized five-dimensional brane-world black hole. The black-hole singularity lies entirely on the 3-brane, while the event horizon is shown to have a pancake shape. The induced line-element on the brane assumes the form of the Schwarzschild solution while the bulk geometry is effectively AdS\(_5\) outside the horizon. The derived geometry is supported by an anisotropic fluid in the bulk described only by two independent components, the energy density and tangential pressure, whereas no matter needs to be introduced on the brane for its consistent embedding in the bulk. </blockquote>
 
 <a href="https://arxiv.org/pdf/2012.09199" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
