@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<br>
-
 <!-- For proper citations, refer [INSPIRE-HEP](https://inspirehep.net/authors/1613452?ui-citation-summary=true)
 <br>
 <br> -->
@@ -148,28 +146,28 @@ Athanasios Bakopoulos, Christos Charmousis, Panagiota Kanti, Nicolas Lecoeur, an
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/2303.09116">Novel exact ultra-compact and ultra-sparse hairy black holes emanating from regular and phantom scalar fields</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Mar 16, 2023
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> In the framework of a simple gravitational theory that contains a scalar field minimally coupled to gravity, we investigate the emergence of analytic black-hole solutions with non-trivial scalar hair of secondary type. Although it is possible for one to obtain asymptotically (A)dS solutions using our setup, in the context of the present work, we are solely interested in asymptotically flat solutions. At first, we study the properties of static and spherically symmetric black-hole solutions emanating from both regular and phantom scalar fields. We find that the regular-scalar-field-induced solutions are solutions describing ultra-compact black holes, while the phantom scalar fields generate ultra-sparse black-hole solutions. The latter are black holes that can be potentially of very low density since, contrary to ultra-compact ones, their horizon radius is always greater than the horizon radius of the corresponding Schwarzschild black hole of the same mass. Then, we generalize the above static solutions to slowly rotating ones and compute their angular velocities explicitly. Finally, the study of the axial perturbations of the derived solutions takes place, in which we show that there is always a region in the parameter space of the free parameters of our theory that allows the existence of both ultra-compact and ultra-sparse black holes. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/2303.09116" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1103/PhysRevD.107.124035" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/2643058" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
@@ -182,28 +180,28 @@ Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodor
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+<h2><a href="https://arxiv.org/abs/2107.05656"></a> Analytic and asymptotically flat hairy (ultra-compact) black-hole solutions and their axial perturbations </h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+<i class="fa fa-fw fa-calendar"></i> Jul 12, 2021
 
 <br>
 <br> 
 
-Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 
 <br>
 
-<blockquote>  </blockquote>
+<blockquote> In this work, we consider a very simple gravitational theory that contains a scalar field with its kinetic and potential terms minimally coupled to gravity, while the scalar field is assumed to have a coulombic form. In the context of this theory, we study an analytic, asymptotically flat, and regular (ultra-compact) black-hole solutions with non-trivial scalar hair of secondary type. At first, we examine the properties of the static and spherically symmetric black-hole solution -- firstly appeared in <a href="https://arxiv.org/abs/1504.08209">1504.08209 [gr-qc]</a> -- and we find that in the causal region of the spacetime the stress-energy tensor, needed to support our solution, satisfies the strong energy conditions. Then, by using the slow-rotating approximation, we generalize the static solution into a slowly rotating one, and we determine explicitly its angular velocity \(\omega(r)\). We also find that the angular velocity of our ultra-compact solution is always larger compared to the angular velocity of the corresponding equally massive slow-rotating Schwarzschild black hole. In addition, we investigate the axial perturbations of the derived solutions by determining the Schrödinger-like equation and the effective potential. We show that there is a region in the parameter space of the free parameters of our theory, which allows for the existence of stable ultra-compact black hole solutions. Specifically, we calculate that the most compact and stable black hole solution is \(0.551\) times smaller than the Schwarzschild one, while it rotates \(2.491\) times faster compared to the slow-rotating Schwarzschild black hole. Finally, we present without going into details the generalization of the derived asymptotically flat solutions to asymptotically (A)dS solutions. </blockquote>
 
-<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+<a href="https://arxiv.org/pdf/2107.05656" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
-<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+<a href="https://doi.org/10.1007/JHEP04(2022)096" class="btn">
   <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
-<a href="https://inspirehep.net/literature/2744174" class="btn">
+<a href="https://inspirehep.net/literature/1882849" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
 
