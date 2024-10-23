@@ -72,3 +72,343 @@ Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodor
 </a>
 
 </div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2310.11919">Black holes with primary scalar hair</a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Christos Charmousis, Panagiota Kanti, Nicolas Lecoeur, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote> We present explicit black holes endowed with primary scalar hair within the shift-symmetric subclass of Beyond Horndeski theories. These solutions depend, in addition to the conventional mass parameter, on a second free parameter encoding primary scalar hair. The properties and characteristics of the solutions at hand are analyzed with varying scalar charge. We observe that when the scalar hair parameter is close to zero or relatively small in comparison to the black hole mass, the solutions closely resemble the Schwarzschild spacetime. As the scalar hair increases, the metric solutions gradually depart from General Relativity. Notably, for a particular relation between mass and scalar hair, the central singularity completely disappears, resulting in the formation of regular black holes or solitons. The scalar field accompanying the solutions is always found to be regular at future or past horizon(s), defining a distinct time direction for each. As a final byproduct of our analysis, we demonstrate the existence of a stealth Schwarschild black hole in Horndeski theory with a non-trivial kinetic term. </blockquote>
+
+<a href="https://arxiv.org/pdf/2310.11919" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.109.024032" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2712204" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198">Bridging dimensions: General embedding algorithm and field-theory reconstruction in 5D braneworld models</a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
+
+<BR>
+<br>
+
+<!-- ------------ -->
+
+<div align="justify">
+
+<h2><a href="https://arxiv.org/abs/2312.17198"></a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Dec 28, 2023
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote>  </blockquote>
+
+<a href="https://arxiv.org/pdf/2312.17198" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.110.024044" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/2744174" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+</div>
