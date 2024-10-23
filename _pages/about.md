@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Theodoros Nakas"
+#excerpt: "Theodoros Nakas"
 author_profile: true
 redirect_from: 
   - /about/
