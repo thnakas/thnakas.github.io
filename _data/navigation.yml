@@ -13,14 +13,14 @@ main:
   #- title: "Photography"
   #  url: /Photography/    
     
-  - title: "Conference Talks"
+  - title: "Talks & Presentations"
     url: /conferences/
         
   - title: "Teaching"
     url: /teaching/
     
-  #- title: "CV"
-  #  url: /resume/
+  - title: "CV"
+    url: /resume/
 
   - title: "Contact"
     url: /contact/  
