@@ -5,14 +5,14 @@ permalink: /conferences/
 author_profile: true
 ---
 
+I have participated in over 40 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation.
+
+<br>
+<br>
 
 <div align="justify">
 
 <h2> International Conferences/Workshops/Schools </h2>
-
-I have participated in over 40 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation.
-
-<br>
 
 <ul>
 
