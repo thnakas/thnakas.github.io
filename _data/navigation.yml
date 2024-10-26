@@ -19,6 +19,9 @@ main:
   - title: "Teaching"
     url: /teaching/
     
+  - title: "Other Academic Activities"
+    url: /aca-activities/
+    
   - title: "CV"
     url: /resume/
 
