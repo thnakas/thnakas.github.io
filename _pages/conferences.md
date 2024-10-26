@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 <br>
-<br>
 
 <div align="justify">
 
-I have participated in over 40 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation.
+I have participated in over 30 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation.
 
 </div>
 
