@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Research & Publications"
 permalink: /research/
 author_profile: true
