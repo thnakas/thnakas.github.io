@@ -32,6 +32,7 @@ author_profile: true
    <li> <a href="https://websites.auth.gr/cernseenetmtp/"> <span style="color: skyblue"> CERN – SEENET-MTP – ICTP School </span> </a>
 
    <br>
+   <br>
 
    <i class="fa fa-fw fa-calendar"></i> June 9-16, 2024 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Thessaloniki, Greece
@@ -48,6 +49,7 @@ author_profile: true
    <li> <a href="https://indico.icc.ub.edu/event/351/"> <span style="color: skyblue"> GRAVITY: Challenges beyond General Relativity </span> </a>
 
    <br>
+   <br>
 
    <i class="fa fa-fw fa-calendar"></i> May 22-24, 2024 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Barcelona, Spain
@@ -63,6 +65,7 @@ author_profile: true
 
    <li> <a href="http://physics.ntua.gr/COMTG2023/gen_info.html"> <span style="color: skyblue"> Compact Objects in Modified Theories of Gravity </span> </a>
 
+   <br>
    <br>
 
    <i class="fa fa-fw fa-calendar"></i> Sep 15-18, 2023 &nbsp;  &nbsp;
@@ -81,6 +84,7 @@ author_profile: true
    <li> <a href="https://indico.physics.auth.gr/event/15/"> <span style="color: skyblue"> NEB20-Recent Developments in Gravity </span> </a>
 
    <br>
+   <br>
 
    <i class="fa fa-fw fa-calendar"></i> Sep 11-14, 2023 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Athens, Greece
@@ -98,6 +102,7 @@ author_profile: true
    <li> <a href="https://indico.physics.auth.gr/event/7/"> <span style="color: skyblue"> NEB19-Recent Developments in Gravity </span> </a>
 
    <br>
+   <br>
 
    <i class="fa fa-fw fa-calendar"></i> Sep 20-23, 2021 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Online
@@ -113,6 +118,7 @@ author_profile: true
 
    <li> <a href="https://www.icra.it/mg/mg16.html"> <span style="color: skyblue"> Sixteenth Marcel Grossmann Meeting </span> </a>
 
+   <br>
    <br>
 
    <i class="fa fa-fw fa-calendar"></i> July 5-10, 2021 &nbsp;  &nbsp;
@@ -146,6 +152,7 @@ author_profile: true
 
    <li> <a href="http://www.physics.ntua.gr/cosmo19/Syros2019/index.html"> <span style="color: skyblue"> Tenth Aegean Summer School on Recent Developments in Theory and Observations in Gravity and Cosmology </span> </a>
 
+   <br>
    <br>
 
    <i class="fa fa-fw fa-calendar"></i> Sep 16-27, 2019 &nbsp;  &nbsp;
