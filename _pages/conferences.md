@@ -286,6 +286,57 @@ author_profile: true
 
    </li>
 
+   <br>
+   <br>
+
+   <li> Annual Seminar of PhD Students in the Physics Department of the University of Ioannina
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> June 3, 2021 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Opava, Czech Republic
+
+   <br>
+
+   <blockquote> Analytic solutions for localized brane-world black holes </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> Annual Seminar of PhD Students in the Physics Department of the University of Ioannina
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> June 11, 2020 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Opava, Czech Republic
+
+   <br>
+
+   <blockquote> Black string solutions in scalar-tensor theories with branes </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> Annual Seminar of PhD Students in the Physics Department of the University of Ioannina
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Apr 4, 2019 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Opava, Czech Republic
+
+   <br>
+
+   <blockquote> Black string solutions in scalar-tensor theories with branes </blockquote>
+
+   </li>
+
 </ul>
 
 <div>
