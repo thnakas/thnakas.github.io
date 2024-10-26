@@ -73,8 +73,7 @@ author_profile: true
 
    <br>
 
-   <blockquote> Bridging Dimensions: General Embedding Algorithm and 2023, 9/15-18
-   Field-Theory Reconstruction in 5D Braneworld Models </blockquote>
+   <blockquote> Bridging Dimensions: General Embedding Algorithm and Field-Theory Reconstruction in 5D Braneworld Models </blockquote>
 
    </li>
 
@@ -91,8 +90,7 @@ author_profile: true
 
    <br>
 
-   <blockquote> Bridging Dimensions: General Embedding Algorithm and 2023, 9/15-18
-   Field-Theory Reconstruction in 5D Braneworld Models </blockquote>
+   <blockquote> Bridging Dimensions: General Embedding Algorithm and Field-Theory Reconstruction in 5D Braneworld Models </blockquote>
 
    </li>
 
