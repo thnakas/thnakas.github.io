@@ -15,11 +15,9 @@ author_profile: true
    <li> <a href="http://www.physics.ntua.gr/cosmo24/Sifnos2024/gen_info.html"> <span style="color: skyblue"> Twelfth Aegean Summer School on Recent Developments in Theory and Observations in Gravity and Cosmology </span> </a>
 
    <br>
-
-   <i class="fa fa-fw fa-calendar"></i> Sep 9-14, 2024
-
    <br>
 
+   <i class="fa fa-fw fa-calendar"></i> Sep 9-14, 2024 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Sifnos, Greece
 
    <br>
@@ -35,10 +33,7 @@ author_profile: true
 
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> June 9-16, 2024
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> June 9-16, 2024 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Thessaloniki, Greece
 
    <br>
@@ -54,10 +49,7 @@ author_profile: true
 
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> May 22-24, 2024
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> May 22-24, 2024 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Barcelona, Spain
 
    <br>
@@ -73,10 +65,7 @@ author_profile: true
 
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> Sep 15-18, 2023
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> Sep 15-18, 2023 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Athens, Greece
 
    <br>
@@ -93,10 +82,7 @@ author_profile: true
 
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> Sep 11-14, 2023
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> Sep 11-14, 2023 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Athens, Greece
 
    <br>
@@ -113,10 +99,7 @@ author_profile: true
 
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> Sep 20-23, 2021
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> Sep 20-23, 2021 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Online
 
    <br>
@@ -132,10 +115,7 @@ author_profile: true
 
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> July 5-10, 2021
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> July 5-10, 2021 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Online
 
    <br>
@@ -152,10 +132,7 @@ author_profile: true
    <br>
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> April 12-16, 2021
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> April 12-16, 2021 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Online
 
    <br>
@@ -171,10 +148,7 @@ author_profile: true
 
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> Sep 16-27, 2019
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> Sep 16-27, 2019 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Syros, Greece
 
    <br>
@@ -191,10 +165,7 @@ author_profile: true
    <br>
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> June 9, 2019
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> June 9, 2019 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece
 
    <br>
@@ -211,10 +182,7 @@ author_profile: true
    <br>
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> Sep 20-23, 2018
-
-   <br>
-
+   <i class="fa fa-fw fa-calendar"></i> Sep 20-23, 2018 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Rhodes, Greece
 
    <br>
