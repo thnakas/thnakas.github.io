@@ -20,7 +20,7 @@ main:
     url: /teaching/
     
   #- title: "CV"
-  #  url: /cv/
+  #  url: /resume/
 
   - title: "Contact"
     url: /contact/  
