@@ -13,7 +13,7 @@ author_profile: true
 <br>
 <br>
 
-<a href="http://www.physics.ntua.gr/cosmo24/Sifnos2024/gen_info.html"> <span style="color: skyblue"> Twelfth Aegean Summer School on Recent Developments in Theory and Observations in Gravity and Cosmology </a>
+<a href="http://www.physics.ntua.gr/cosmo24/Sifnos2024/gen_info.html"> <span style="color: skyblue"> Twelfth Aegean Summer School on Recent Developments in Theory and Observations in Gravity and Cosmology </span> </a>
 
 <br>
 <br>
