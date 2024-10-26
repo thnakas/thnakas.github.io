@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Research & Publications"
 permalink: /research/
 author_profile: true
