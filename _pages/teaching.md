@@ -12,7 +12,8 @@ author_profile: true
   Academic years: <i class="fa fa-fw fa-calendar"></i> 2018-2019, <i class="fa fa-fw fa-calendar"></i> 2019-2020, <i class="fa fa-fw fa-calendar"></i> 2020-2021
   
   <ul>
-    <li> <a href="https://physics.uoi.gr/en/"> University of Ioannina, Greece </a> </li>
+    <li> <a href="https://physics.uoi.gr/en/"> <span style="color: skyblue"> University of Ioannina, Greece </span> 
+    </a> </li>
     <li> Core undergraduate course </li>
     <li> Taught jointly with Prof. Panagiota Kanti for three consecutive years </li>
   </ul>
