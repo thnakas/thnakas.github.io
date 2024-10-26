@@ -293,7 +293,7 @@ author_profile: true
    <br>
 
    <i class="fa fa-fw fa-calendar"></i> June 3, 2021 &nbsp;  &nbsp;
-   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Opava, Czech Republic
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece
 
    <br>
 
@@ -310,7 +310,7 @@ author_profile: true
    <br>
 
    <i class="fa fa-fw fa-calendar"></i> June 11, 2020 &nbsp;  &nbsp;
-   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Opava, Czech Republic
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece
 
    <br>
 
@@ -327,7 +327,7 @@ author_profile: true
    <br>
 
    <i class="fa fa-fw fa-calendar"></i> Apr 4, 2019 &nbsp;  &nbsp;
-   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Opava, Czech Republic
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece
 
    <br>
 
