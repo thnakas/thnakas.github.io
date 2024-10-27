@@ -27,8 +27,6 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
 
 <h2> Beyond Work </h2>
 
-<br>
-
 When I am not immersed in research, you will find me enjoying a wide range of interests—from the fascinating worlds of cinema and literature to competitive games like chess, billiards, and ping-pong. I also enjoy diving into board games and video games for a fun challenge and a fresh dose of excitement.
 
 </div>
