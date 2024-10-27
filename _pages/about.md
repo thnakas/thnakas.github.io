@@ -19,3 +19,16 @@ My research involves <i>model building, mathematical formulations, and rigorous 
 Within the realm of modified gravitational theories and extra dimensions, I specialize in studying compact-object solutions, with a particular focus on black-hole solutions. These cosmic enigmas not only serve as intriguing laboratories for testing alternative theories of gravity but also offer insights into the nature of spacetime singularities and event horizons.
 
 </div>
+
+<BR>
+<br>
+
+<div align="justify">
+
+<h2> Beyond Work </h2>
+
+<br>
+
+When I am not immersed in research, you will find me enjoying a wide range of interests—from the fascinating worlds of cinema and literature to competitive games like chess, billiards, and ping pong. I also enjoy diving into board games and video games for a fun challenge and a fresh dose of excitement.
+
+</div>
