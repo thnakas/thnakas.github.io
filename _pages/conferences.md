@@ -145,7 +145,7 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
    <br>
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> April 12-16, 2021 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-calendar"></i> Apr 12-16, 2021 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Online
 
    <br>
