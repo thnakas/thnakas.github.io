@@ -218,6 +218,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://indico.ibs.re.kr/event/700/"> <span style="color: skyblue"> String theory, Gravity and Cosmology 2024 (SGC2024) </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Dec 4-7, 2024 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+
+   <br>
+
+   <blockquote> Black holes with primary scalar hair </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://indico.ijclab.in2p3.fr/event/9501/"> <span style="color: skyblue"> AstroParticle Symposium 2023 </span> </a>
 
    <br>
@@ -261,6 +278,40 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 <h2> Seminars and Colloquia </h2>
 
 <ul>
+
+   <li> <a href="https://indico.ibs.re.kr/event/779/timetable/#20241125.detailed">8th TAUN collaboration meeting 2024</a> 
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Nov 25, 2024 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+
+   <br>
+
+   <blockquote> General algorithm for embedding 4D geometries in 5D braneworld models </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> Seminar at the Institute for Basic Science, CTPU-CGA 
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Nov 12, 2024 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+
+   <br>
+
+   <blockquote> Compact objects with primary scalar hair </blockquote>
+
+   </li>
+
+   <br>
+   <br>
 
    <li> Seminar at the Institute of Physics of the Silesian University in Opava 
 
