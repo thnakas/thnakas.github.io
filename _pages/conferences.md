@@ -231,67 +231,6 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <div align="justify">
 
-<h2> Poster Presentations </h2>
-
-<ul>
-
-   <li> <a href="https://indico.ibs.re.kr/event/700/"> <span style="color: skyblue"> String theory, Gravity and Cosmology 2024 (SGC2024) </span> </a>
-
-   <br>
-   <br>
-
-   <i class="fa fa-fw fa-calendar"></i> Dec 4-7, 2024 &nbsp;  &nbsp;
-   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
-
-   <br>
-
-   <blockquote> Black holes with primary scalar hair </blockquote>
-
-   </li>
-
-   <br>
-   <br>
-
-   <li> <a href="https://indico.ijclab.in2p3.fr/event/9501/"> <span style="color: skyblue"> AstroParticle Symposium 2023 </span> </a>
-
-   <br>
-   <br>
-
-   <i class="fa fa-fw fa-calendar"></i> Nov 6-12, 2023 &nbsp;  &nbsp;
-   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Paris-Saclay, France
-
-   <br>
-
-   <blockquote> Exact analytic ultra-compact and ultra-sparse hairy black holes </blockquote>
-
-   </li>
-
-   <br>
-   <br>
-
-   <li> <a href="https://sites.google.com/cam.ac.uk/gw-school-2023"> <span style="color: skyblue"> The Kavli-Villum Summer School on Gravitational Waves </span> </a>
-
-   <br>
-   <br>
-
-   <i class="fa fa-fw fa-calendar"></i> Sep 25-30, 2023 &nbsp;  &nbsp;
-   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Corfu, Greece
-
-   <br>
-
-   <blockquote> Exact analytic solutions for localized braneworld black holes </blockquote>
-
-   </li>
-
-</ul>
-
-<div>
-
-<BR>
-<br>
-
-<div align="justify">
-
 <h2> Seminars and Colloquia </h2>
 
 <ul>
@@ -409,6 +348,67 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
    <br>
 
    <blockquote> Black string solutions in scalar-tensor theories with branes </blockquote>
+
+   </li>
+
+</ul>
+
+<div>
+
+<BR>
+<br>
+
+<div align="justify">
+
+<h2> Poster Presentations </h2>
+
+<ul>
+
+   <li> <a href="https://indico.ibs.re.kr/event/700/"> <span style="color: skyblue"> String theory, Gravity and Cosmology 2024 (SGC2024) </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Dec 4-7, 2024 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+
+   <br>
+
+   <blockquote> Black holes with primary scalar hair </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> <a href="https://indico.ijclab.in2p3.fr/event/9501/"> <span style="color: skyblue"> AstroParticle Symposium 2023 </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Nov 6-12, 2023 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Paris-Saclay, France
+
+   <br>
+
+   <blockquote> Exact analytic ultra-compact and ultra-sparse hairy black holes </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> <a href="https://sites.google.com/cam.ac.uk/gw-school-2023"> <span style="color: skyblue"> The Kavli-Villum Summer School on Gravitational Waves </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Sep 25-30, 2023 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Corfu, Greece
+
+   <br>
+
+   <blockquote> Exact analytic solutions for localized braneworld black holes </blockquote>
 
    </li>
 
