@@ -21,6 +21,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://sites.google.com/view/gravity2025"> <span style="color: skyblue"> Gravity 2025: New Horizon of Black Hole Physics </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Jan 27-31, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Kyoto, Japan
+
+   <br>
+
+   <blockquote> Black holes with primary scalar hair </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="http://www.physics.ntua.gr/cosmo24/Sifnos2024/gen_info.html"> <span style="color: skyblue"> Twelfth Aegean Summer School on Recent Developments in Theory and Observations in Gravity and Cosmology </span> </a>
 
    <br>
