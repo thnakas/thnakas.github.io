@@ -11,9 +11,9 @@ author_profile: true
 
 <div align="justify">
 
-<h2><a href="https://arxiv.org/abs/2412.19773">On the uplift of 4D wormholes in Braneworld models and their 5D structure</a></h2>
+<h2><a href="https://arxiv.org/abs/2504.01669">The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics</a></h2>
 
-<i class="fa fa-fw fa-calendar"></i> Dec 27, 2024
+<i class="fa fa-fw fa-calendar"></i> April 2, 2025
 
 <br>
 <br> 
