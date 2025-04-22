@@ -21,7 +21,7 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
-   <li> <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
+   <li> <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT <br> Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
 
    <br>
    <br>
