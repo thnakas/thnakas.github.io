@@ -24,7 +24,7 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
 <br>
 
 <!-- What’s New Section -->
-<section id="whats-new" style="max-width: 600px; margin: 2rem auto; <!-- border: 3px solid #55acee; --> border-radius: 8px; padding: 1.5rem; background-color:rgb(112, 103, 103); box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);">
+<section id="whats-new" style="max-width: 600px; margin: 2rem auto; border: 1.5px solid #55acee; border-radius: 8px; padding: 1.5rem; background-color:rgb(112, 103, 103); box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);">
   <header style="display: flex; align-items: center; margin-bottom: 1rem;">
     <span style="display: inline-block; width: 8px; height: 32px; background-color: #55acee; margin-right: 0.75rem; border-radius: 4px;"></span>
     <h2 style="margin: 0; font-size: 1.5rem; color: #333333;;">What’s New</h2>
