@@ -30,25 +30,14 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <h2 style="margin: 0; font-size: 1.5rem; color: #333333;;">What’s New</h2>
   </header>
   <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6; color: #333333;">
-    <li>
-      <strong>April 2025:</strong> <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT <br> Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
-
-   <br>
-   <br>
-
-   <i class="fa fa-fw fa-calendar"></i> April 7-12, 2025 &nbsp;  &nbsp;
-   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia
-
-   <br>
-
-   <blockquote> Black holes with primary scalar hair </blockquote>
-
-    </li>
-    <li>
-      <strong>Mar 2025:</strong> (2)
-    </li>
-    <li>
-      <strong>Feb 2025:</strong> (3)
+    <li> 
+    <i class="fa fa-fw fa-calendar"></i> April 7-12, 2025 &nbsp;  &nbsp;
+    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia
+    <br>
+    <br>
+    <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT <br> Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
+    <br>
+    <blockquote> Black holes with primary scalar hair </blockquote>
     </li>
   </ul>
 </section>
