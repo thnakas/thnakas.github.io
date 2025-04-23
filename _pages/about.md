@@ -33,6 +33,7 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <li>
     <strong> Talk at the workshop: </strong> <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
     <br>
+    <br>
     <i class="fa fa-fw fa-calendar"></i> April 7-12, 2025 &nbsp;  &nbsp;
     <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia
     <br>
