@@ -36,8 +36,6 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <br>
     <i class="fa fa-fw fa-calendar"></i> April 7-12, 2025 &nbsp;  &nbsp;
     <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia
-    <br>
-    <br>
     </li>
   </ul>
 </section>
