@@ -37,7 +37,6 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia
     <br>
     <br>
-    
     </li>
   </ul>
 </section>
