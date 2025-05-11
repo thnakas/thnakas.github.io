@@ -33,16 +33,13 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <li>
     <i class="fa fa-fw fa-calendar"></i> May 26-30, 2025: &nbsp;
     <strong> Talk at the upcoming workshop </strong> <a href="https://indico.ibs.re.kr/event/847/"> <span style="color: skyblue"> IBS CTPU-CGA 2025 Workshop on Quasi Normal Mode and Black Hole Perturbation </span> </a>
-    <br>
-    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea -->
     </li>
-    <br>
     <br>
     <li>
     <i class="fa fa-fw fa-calendar"></i> April 7-12, 2025: &nbsp;
     <strong> Talk at the workshop: </strong> <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
-    <br>
-    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia
+    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia -->
     </li>
   </ul>
 </section>
