@@ -21,6 +21,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://indico.ibs.re.kr/event/847/timetable/#20250529"> <span style="color: skyblue"> IBS CTPU-CGA 2025 Workshop on Quasi Normal Mode and Black Hole Perturbation </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> May 26-30, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+
+   <br>
+
+   <blockquote> Black holes in string-inspired Euler-Heisenberg theory: Doppelgänger black holes </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT <br> Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
 
    <br>
