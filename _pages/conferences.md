@@ -21,7 +21,7 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
-   <li> <a href="https://indico.ibs.re.kr/event/847/timetable/#20250529"> <span style="color: skyblue"> IBS CTPU-CGA 2025 Workshop on Quasi Normal Mode and Black Hole Perturbation </span> </a>
+   <li> <a href="https://indico.ibs.re.kr/event/847/"> <span style="color: skyblue"> IBS CTPU-CGA 2025 Workshop on Quasi Normal Mode and Black Hole Perturbation </span> </a>
 
    <br>
    <br>
