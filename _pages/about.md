@@ -29,7 +29,8 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <span style="display: inline-block; width: 8px; height: 32px; background-color: #d1a159; margin-right: 0.75rem; border-radius: 4px;"></span>
     <h2 style="margin: 0; font-size: 1.5rem; color: #333333;;">What’s New</h2>
   </header>
-  <ul style="list-style: square; padding: 0; margin: 0; line-height: 1.6; color: #333333;">
+  <ul style="list-style: square; padding: 0; margin: 0; line-height: 1.6; color: #333333; text-align: justify;
+  text-justify: inter-word;">
     <li>
     <strong> <i class="fa fa-fw fa-calendar"></i> July 7-11, 2025: &nbsp;</strong>
     Talk at the <a href="https://indico.ibs.re.kr/event/871/"> <span style="color: skyblue"> International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 </span> </a>
