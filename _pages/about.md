@@ -35,6 +35,7 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     Talk at the <a href="https://indico.ibs.re.kr/event/871/"> <span style="color: skyblue"> International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 </span> </a>
     <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea -->
     </li>
+    <br>
     <li>
     <strong> <i class="fa fa-fw fa-calendar"></i> June 27, 2025: &nbsp;</strong>
     Seminar talk at the Division of Theoretical Physics of the University of Ioannina
