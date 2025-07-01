@@ -31,15 +31,20 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
   </header>
   <ul style="list-style: square; padding: 0; margin: 0; line-height: 1.6; color: #333333;">
     <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> May 26-30, 2025: &nbsp;</strong>
-    Talk at the workshop <a href="https://indico.ibs.re.kr/event/847/"> <span style="color: skyblue"> IBS CTPU-CGA 2025 Workshop on Quasi Normal Mode and Black Hole Perturbation </span> </a>
+    <strong> <i class="fa fa-fw fa-calendar"></i> July 7-11, 2025: &nbsp;</strong>
+    Talk at the <a href="https://indico.ibs.re.kr/event/871/"> <span style="color: skyblue"> International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 </span> </a>
     <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea -->
+    </li>
+    <li>
+    <strong> <i class="fa fa-fw fa-calendar"></i> June 27, 2025: &nbsp;</strong>
+    Seminar talk at the Division of Theoretical Physics of the University of Ioannina
+    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece -->
     </li>
     <br>
     <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> April 7-12, 2025: &nbsp;</strong>
-    Talk at the workshop <a href="https://cosmograv-spring25.fzu.cz/"> <span style="color: skyblue"> Prague Spring 2025: CAS–IBS CTPU-CGA–ISCT Workshop in Cosmology, Gravitation and Particle Physics </span> </a>
-    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Prague, Czechia -->
+    <strong> <i class="fa fa-fw fa-calendar"></i> May 26-30, 2025: &nbsp;</strong>
+    Talk at the workshop <a href="https://indico.ibs.re.kr/event/847/"> <span style="color: skyblue"> IBS CTPU-CGA 2025 Workshop on Quasi Normal Mode and Black Hole Perturbation </span> </a>
+    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea -->
     </li>
   </ul>
 </section>

@@ -269,6 +269,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> Seminar at the Division of Theoretical Physics of the University of Ioannina  
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> June 27, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece
+
+   <br>
+
+   <blockquote> Black-hole solutions with primary scalar hair </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://indico.ibs.re.kr/event/779/timetable/#20241125.detailed">8th TAUN collaboration meeting 2024</a> 
 
    <br>
