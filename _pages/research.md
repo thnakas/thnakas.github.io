@@ -14,8 +14,8 @@ author_profile: true
 </head>
 
 <body>
-<div id="chartContainer1" style="height: 300px; width: 10%; display: inline-block;"></div>
-<div id="chartContainer2" style="height: 300px; width: 10%; display: inline-block;"></div>
+<div id="chartContainer1" style="height: 300px; width: 10%; display: inline-block; float: left;"></div>
+<div id="chartContainer2" style="height: 300px; width: 10%; display: inline-block; float: right;"></div>
 
 <script>
 window.onload = function () {
