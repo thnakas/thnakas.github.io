@@ -56,6 +56,10 @@ Eleonora Di Valentino, Jackson Levi Said et al.
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
+<a href="https://doi.org/10.1016/j.dark.2025.101965" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
 <a href="https://inspirehep.net/literature/2907383" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>
