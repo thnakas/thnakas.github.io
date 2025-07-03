@@ -14,7 +14,7 @@ author_profile: true
 window.onload = function () {
 	var chart = new CanvasJS.Chart("chartContainer",
 	{
-		theme: "dark2",
+		theme: "dark1",
 		title:{
 			text: "Publications"
 		},		
