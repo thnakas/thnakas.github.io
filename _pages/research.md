@@ -15,7 +15,7 @@ author_profile: true
 
 
 
-<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>>
+<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js">
 window.onload = function () {
   // First Pie Chart
 	var chart1 = new CanvasJS.Chart("chartContainer1",
