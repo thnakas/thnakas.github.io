@@ -13,9 +13,7 @@ author_profile: true
   <title>Publications</title>
 </head>
 
-<body>
-<div id="chartContainer1" style="height: 300px; width: 10%; display: inline-block; float: left;"></div>
-<div id="chartContainer2" style="height: 300px; width: 10%; display: inline-block; float: right;"></div>
+
 
 <script>
 window.onload = function () {
@@ -71,6 +69,10 @@ window.onload = function () {
 	chart2.render();
 }
 </script>
+
+<body>
+<div id="chartContainer1" style="height: 300px; width: 10%; display: inline-block; float: left;"></div>
+<div id="chartContainer2" style="height: 300px; width: 10%; display: inline-block; float: right;"></div>
 </body>
 
 <div align="justify">
