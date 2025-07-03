@@ -67,8 +67,8 @@ window.onload = function () {
 </head>
 
 <body>
-<div id="chartContainer1" style="height: 300px; width: 45%; display: inline-block;"></div>
-<div id="chartContainer2" style="height: 300px; width: 45%; display: inline-block;"></div>
+<div id="chartContainer1" style="height: 300px; width: 30%; display: inline-block;"></div>
+<div id="chartContainer2" style="height: 300px; width: 30%; display: inline-block;"></div>
 </body>
 
 <div align="justify">
