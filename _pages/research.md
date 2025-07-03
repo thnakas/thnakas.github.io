@@ -24,7 +24,7 @@ Yun Soo Myung and <span style="color:orange">Theodoros Nakas</span>
 
 <blockquote> In this work, we revisit the thermodynamics of black holes endowed with primary and secondary scalar hair in the shift and symmetric subclass of beyond Horndeski gravity. Under a specific fine-tuning of the scalar parameter   in terms of the black hole mass, the singular black-hole solution with primary scalar hair reduces to the regular Bardeen solution featuring secondary scalar hair. We first demonstrate that the traditional thermodynamic approach fails to yield a consistent Smarr formula for both solutions under consideration. To address this issue, we adopt the approach introduced in <a href="https://doi.org/10.1103/PhysRevLett.132.191401">[Phys Rev Lett. 132 (2024) 19, 191401]</a>, and we derive both the first law of black hole thermodynamics and the Smarr formula, offering a consistent thermodynamic description for scalar-hairy black holes. As an additional outcome, our analysis reveals a connection between the solutions with primary and secondary scalar hair. </blockquote>
 
-<a href="https://arxiv.org/abs/2505.02368" class="btn">
+<a href="https://arxiv.org/pdf/2505.02368" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
@@ -52,7 +52,7 @@ Eleonora Di Valentino, Jackson Levi Said et al.
 
 <blockquote> The standard model of cosmology has provided a good phenomenological description of a wide range of observations both at astrophysical and cosmological scales for several decades. This concordance model is constructed by a universal cosmological constant and supported by a matter sector described by the standard model of particle physics and a cold dark matter contribution, as well as very early-time inflationary physics, and underpinned by gravitation through general relativity. There have always been open questions about the soundness of the foundations of the standard model. However, recent years have shown that there may also be questions from the observational sector with the emergence of differences between certain cosmological probes. In this White Paper, we identify the key objectives that need to be addressed over the coming decade together with the core science projects that aim to meet these challenges. These discordances primarily rest on the divergence in the measurement of core cosmological parameters with varying levels of statistical confidence. These possible statistical tensions may be partially accounted for by systematics in various measurements or cosmological probes but there is also a growing indication of potential new physics beyond the standard model. After reviewing the principal probes used in the measurement of cosmological parameters, as well as potential systematics, we discuss the most promising array of potential new physics that may be observable in upcoming surveys. We also discuss the growing set of novel data analysis approaches that go beyond traditional methods to test physical models. [Abridged] </blockquote>
 
-<a href="https://arxiv.org/abs/2504.01669" class="btn">
+<a href="https://arxiv.org/pdf/2504.01669" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
@@ -84,7 +84,7 @@ Thomas D. Pappas and <span style="color:orange">Theodoros Nakas</span>
 
 <blockquote> Recent developments in the consistent embedding of general 4D static and spherically-symmetric spacetimes in arbitrary single-brane braneworld models <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.L041501">[Phys.Rev.D 109 (2024) 4, L041501]</a> initiated the program of studying the bulk structure of braneworld wormholes. In this article, adopting a completely generic approach, we derive the general conditions that the metric functions of any braneworld spacetime must satisfy to describe a wormhole structure in the bulk. Particular emphasis is placed on clarifying the proper uplift of 4D wormholes, expressed in terms of various radial coordinates on the brane, and we demonstrate the important role of the circumferential radius metric function for the embedding. Additionally, the flare-out conditions for braneworld wormholes are presented for the first time and are found to differ from the case of flat extra dimensions. To illustrate the method, we first perform the uplift into the Randall-Sundrum II braneworld model for three well-known 4D wormhole spacetimes; the effective braneworld wormhole solutions of Casadio-Fabbri-Mazzacurati and Bronnikov-Kim, and the Simpson-Visser spacetime. Subsequently, we study their bulk features by means of curvature invariants, flare-out conditions, energy conditions and embedding diagrams. Our analysis reveals that the assumption of a warped extra dimension has non-trivial implications for the structure of 5D wormholes. </blockquote>
 
-<a href="https://arxiv.org/abs/2412.19773" class="btn">
+<a href="https://arxiv.org/pdf/2412.19773" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
