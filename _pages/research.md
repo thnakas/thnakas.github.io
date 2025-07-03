@@ -10,7 +10,14 @@ author_profile: true
 <br> -->
 
 <head>
-<script type="text/javascript">
+  <title>Publications</title>
+</head>
+
+<body>
+<div id="chartContainer1" style="height: 300px; width: 10%; display: inline-block;"></div>
+<div id="chartContainer2" style="height: 300px; width: 10%; display: inline-block;"></div>
+
+<script>
 window.onload = function () {
   // First Pie Chart
 	var chart1 = new CanvasJS.Chart("chartContainer1",
@@ -64,11 +71,6 @@ window.onload = function () {
 	chart2.render();
 }
 </script>
-</head>
-
-<body>
-<div id="chartContainer1" style="height: 300px; width: 10%; display: inline-block;"></div>
-<div id="chartContainer2" style="height: 300px; width: 10%; display: inline-block;"></div>
 </body>
 
 <div align="justify">
