@@ -14,10 +14,12 @@ author_profile: true
 window.onload = function () {
 	var chart = new CanvasJS.Chart("chartContainer",
 	{
-		theme: "dark1",
+		theme: "dark2",
 		title:{
 			text: "Publications"
 		},		
+    animationEnabled: true,
+    animationDuration: 2000,
 		data: [
 		{       
 			type: "pie",
