@@ -14,7 +14,7 @@ author_profile: true
 window.onload = function () {
 	var chart = new CanvasJS.Chart("chartContainer",
 	{
-		theme: "light2",
+		theme: "dark1", //"light2",
 		title:{
 			text: "Publications"
 		},		
@@ -22,11 +22,13 @@ window.onload = function () {
 		{       
 			type: "pie",
 			showInLegend: true,
-			toolTipContent: "{y} - #percent %",
-			legendText: "{indexLabel}",
+      indexLabelFontSize: 20,
+      indexLabel: "{label} - {y}",
+			toolTipContent: "<b>{label}</b>: {y} - #percent %",
+			legendText: "{label}",
 			dataPoints: [
-				{  y: 13, indexLabel: "Peer-Reviewed" },
-				{  y: 2, indexLabel: "Preprints (Under review)"}
+				{  y: 13, label: "Peer-Reviewed" },
+				{  y: 2,  label: "Preprints (Under review)"}
 			]
 		}
 		]
