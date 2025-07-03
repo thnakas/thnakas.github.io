@@ -9,6 +9,36 @@ author_profile: true
 <br>
 <br> -->
 
+<head>
+<script type="text/javascript">
+window.onload = function () {
+	var chart = new CanvasJS.Chart("chartContainer",
+	{
+		theme: "light2",
+		title:{
+			text: "Publications"
+		},		
+		data: [
+		{       
+			type: "pie",
+			showInLegend: true,
+			toolTipContent: "{y} - #percent %",
+			legendText: "{indexLabel}",
+			dataPoints: [
+				{  y: 13, indexLabel: "Peer-Reviewed" },
+				{  y: 2, indexLabel: "Preprints (Under review)"}
+			]
+		}
+		]
+	});
+	chart.render();
+}
+</script>
+<script type="text/javascript" src="https://cdn.canvasjs.com/canvasjs.min.js"></script></head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+</body>
+
 <div align="justify">
 
 <h2><a href="https://arxiv.org/abs/2505.02368">Smarr formula for black holes with primary and secondary scalar hair</a></h2>
