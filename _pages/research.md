@@ -12,7 +12,8 @@ author_profile: true
 <head>
 <script type="text/javascript">
 window.onload = function () {
-	var chart = new CanvasJS.Chart("chartContainer",
+  // First Pie Chart
+	var chart1 = new CanvasJS.Chart("chartContainer1",
 	{
 		theme: "dark1",
 		title:{
@@ -35,12 +36,39 @@ window.onload = function () {
 		}
 		]
 	});
-	chart.render();
+	chart1.render();
+  // Second Pie Chart
+	var chart2 = new CanvasJS.Chart("chartContainer2",
+	{
+		theme: "dark1",
+		title:{
+			text: "Quality of Journals"
+		},		
+    animationEnabled: true,
+    animationDuration: 2000,
+		data: [
+		{       
+			type: "pie",
+			showInLegend: "true",
+      indexLabelFontSize: 16,
+      indexLabel: "{label} - {y}",
+			toolTipContent: "<b>{label}</b>: {y} - #percent %",
+			legendText: "{label}",
+			dataPoints: [
+				{  y: 13, label: "Q1" },
+				{  y: 2,  label: "Under review"}
+			]
+		}
+		]
+	});
+	chart2.render();
 }
 </script>
-<script type="text/javascript" src="https://cdn.canvasjs.com/canvasjs.min.js"></script></head>
+</head>
+
 <body>
-<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<div id="chartContainer1" style="height: 300px; width: 45%; display: inline-block;"></div>
+<div id="chartContainer2" style="height: 300px; width: 45%; display: inline-block;"></div>
 </body>
 
 <div align="justify">
