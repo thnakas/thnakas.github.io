@@ -12,6 +12,7 @@ author_profile: true
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 <div id="chartContainer1" style="height: 300px; width: 100%; display: inline-block;"></div>
 
+<script>
 var chart1 = new CanvasJS.Chart("chartContainer1", {
 		theme: "dark1",
 		title: {
@@ -35,6 +36,7 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 		]
 	});
 	chart1.render();
+  </script>
 
 <div align="justify">
 
