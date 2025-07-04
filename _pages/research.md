@@ -9,7 +9,9 @@ author_profile: true
 <br>
 <br> -->
 
+<script>
 <div id="chartContainer1" style="height: 300px; width: 100%; display: inline-block;"></div>
+</script>
 
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js">
 var chart1 = new CanvasJS.Chart("chartContainer1", {
