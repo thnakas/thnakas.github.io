@@ -23,7 +23,7 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 		{       
 			type: "pie",
 			showInLegend: "true",
-      indexLabelFontSize: 16,
+      indexLabelFontSize: 14,
       indexLabel: "{label}: {y}",
 			toolTipContent: "<b>{label}</b>: {y}: #percent %",
 			legendText: "{label}",
