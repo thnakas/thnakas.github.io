@@ -9,19 +9,12 @@ author_profile: true
 <br>
 <br> -->
 
-<head>
-  <title>Publications</title>
-</head>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<div id="chartContainer1" style="height: 300px; width: 100%; display: inline-block;"></div>
 
-
-
-<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js">
-window.onload = function () {
-  // First Pie Chart
-	var chart1 = new CanvasJS.Chart("chartContainer1",
-	{
+var chart1 = new CanvasJS.Chart("chartContainer1", {
 		theme: "dark1",
-		title:{
+		title: {
 			text: "Publications"
 		},		
     animationEnabled: true,
@@ -30,9 +23,9 @@ window.onload = function () {
 		{       
 			type: "pie",
 			showInLegend: "true",
-      indexLabelFontSize: 16,
-      indexLabel: "{label} - {y}",
-			toolTipContent: "<b>{label}</b>: {y} - #percent %",
+      indexLabelFontSize: 14,
+      indexLabel: "{label}: {y}",
+			toolTipContent: "<b>{label}</b>: {y}: #percent %",
 			legendText: "{label}",
 			dataPoints: [
 				{  y: 13, label: "Peer-Reviewed" },
@@ -42,38 +35,6 @@ window.onload = function () {
 		]
 	});
 	chart1.render();
-  // Second Pie Chart
-	var chart2 = new CanvasJS.Chart("chartContainer2",
-	{
-		theme: "dark1",
-		title:{
-			text: "Quality of Journals"
-		},		
-    animationEnabled: true,
-    animationDuration: 2000,
-		data: [
-		{       
-			type: "pie",
-			showInLegend: "true",
-      indexLabelFontSize: 16,
-      indexLabel: "{label} - {y}",
-			toolTipContent: "<b>{label}</b>: {y} - #percent %",
-			legendText: "{label}",
-			dataPoints: [
-				{  y: 13, label: "Q1" },
-				{  y: 2,  label: "Under review"}
-			]
-		}
-		]
-	});
-	chart2.render();
-}
-</script>
-
-<body>
-<div id="chartContainer1" style="height: 300px; width: 10%; display: inline-block; float: left;"></div>
-<div id="chartContainer2" style="height: 300px; width: 10%; display: inline-block; float: right;"></div>
-</body>
 
 <div align="justify">
 
