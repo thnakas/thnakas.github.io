@@ -16,7 +16,7 @@ author_profile: true
 <body>
   <div id="chartContainer1" style="height: 300px; width: 100%;"></div>
 
-<script src="https://canvasjs.com/assets/script/canvasjs.min.js">
+<script>
 var chart1 = new CanvasJS.Chart("chartContainer1", {
 		theme: "dark1",
 		title: {
