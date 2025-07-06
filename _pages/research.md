@@ -9,6 +9,12 @@ author_profile: true
 <br>
 <br> -->
 
+<head>
+  <title>Publications Pie Chart</title>
+  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</head>
+<body>
+  <div id="chartContainer1" style="height: 300px; width: 100%;"></div>
 
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js">
 var chart1 = new CanvasJS.Chart("chartContainer1", {
@@ -35,10 +41,6 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 	});
 	chart1.render();
   </script>
-
-</body>
-<div id="chartContainer1" style="height: 300px; width: 100%;"></div>
-<body>
 
 <div align="justify">
 
