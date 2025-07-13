@@ -42,12 +42,6 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     Seminar talk at the Division of Theoretical Physics of the University of Ioannina
     <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece -->
     </li>
-    <br>
-    <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> May 26-30, 2025: &nbsp;</strong>
-    Talk at the workshop <a href="https://indico.ibs.re.kr/event/847/"> <span style="color: skyblue"> IBS CTPU-CGA 2025 Workshop on Quasi Normal Mode and Black Hole Perturbation </span> </a>
-    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea -->
-    </li>
   </ul>
 </section>
 
