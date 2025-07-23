@@ -276,7 +276,7 @@ Athanasios Bakopoulos, Christos Charmousis, Panagiota Kanti, Nicolas Lecoeur, an
 <br>
 <br> 
 
-Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
+Athanasios Bakopoulos and <span style="color:orange">Theodoros Nakas</span>
 
 <br>
 
@@ -310,7 +310,7 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 <br>
 <br> 
 
-Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
+Athanasios Bakopoulos and <span style="color:orange">Theodoros Nakas</span>
 
 <br>
 
@@ -344,7 +344,7 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 <br>
 <br> 
 
-<span style="color:orange">Theodoros Nakas</span>, and Panagiota Kanti
+<span style="color:orange">Theodoros Nakas</span> and Panagiota Kanti
 
 <br>
 
@@ -378,7 +378,7 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 <br>
 <br> 
 
-<span style="color:orange">Theodoros Nakas</span>, and Panagiota Kanti
+<span style="color:orange">Theodoros Nakas</span> and Panagiota Kanti
 
 <br>
 
@@ -412,7 +412,7 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 <br>
 <br> 
 
-<span style="color:orange">Theodoros Nakas</span>, and Konstantinos Rigatos
+<span style="color:orange">Theodoros Nakas</span> and Konstantinos Rigatos
 
 <br>
 
@@ -514,7 +514,7 @@ Athanasios Bakopoulos, and <span style="color:orange">Theodoros Nakas</span>
 <br>
 <br> 
 
-<span style="color:orange">Theodoros Nakas</span>, and Panagiota Kanti
+<span style="color:orange">Theodoros Nakas</span> and Panagiota Kanti
 
 <br>
 
