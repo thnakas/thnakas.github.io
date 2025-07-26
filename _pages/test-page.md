@@ -41,10 +41,11 @@ body {
   clear: both;
 }
 
-.figure-caption {
+.figurecaption {
   font-size: 24px;
   font-weight: bold;
   word-wrap: break-word;
+  text-align: center;
 }
 
 </style>
