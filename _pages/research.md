@@ -114,7 +114,7 @@ body {
     <a href="/research/black-holes">
         <img src="/images/bh1.gif" >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Black holes in MOG</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><b>Black holes in Modified gravitational theories</b></figcaption>
     </figure>
     <!-- -->
     <figure>
@@ -130,14 +130,14 @@ body {
     <a href="/research/BW-models">
         <img src="/images/braneworld.gif"  >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Braneworld models and extra dimensions solutions</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><b>Braneworld models and extra dimensional solutions</b></figcaption>
     </figure>
     <!-- -->
     <figure>
     <a href="/research/cosmology">
         <img src="/images/cosmo.gif"  >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>& Cosmology</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cosmology</b></figcaption>
     </figure>
   </div>
 </div>
