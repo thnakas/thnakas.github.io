@@ -112,16 +112,15 @@ body {
   <div class="column">
     <figure>
     <a href="/research/black-holes">
-        <img src="/images/bh1.gif" style="width:100%" >
+        <img src="/images/bh1.gif" >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Black holes and their physical properties in MOG</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><b>Black holes in modified gravitational theories</b></figcaption>
     </figure>
     <!-- -->
     <figure>
     <a href="/research/astrophysics">
-        <img src="/images/bh2.gif" style="width:100%" >
+        <img src="/images/bh2.gif" >
     </a>
-    <p style="text-align= center;"> sdfdfsdfsf </p>
     <figcaption style="font-size: 16px; text-align: center;"><b>Astrophysical supermassive black holes</b></figcaption>
     </figure>
   </div>
@@ -129,14 +128,14 @@ body {
   <div class="column">
     <figure>
     <a href="/research/BW-models">
-        <img src="/images/braneworld.gif" style="width:100%" >
+        <img src="/images/braneworld.gif"  >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Braneworld models, extra dimensions, and solutions</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><b>Braneworld models and extra dimensions</b></figcaption>
     </figure>
     <!-- -->
     <figure>
     <a href="/research/cosmology">
-        <img src="/images/cosmo.gif" style="width:100%" >
+        <img src="/images/cosmo.gif"  >
     </a>
     <figcaption style="font-size: 16px; text-align: center;"><b>Cosmology</b></figcaption>
     </figure>
