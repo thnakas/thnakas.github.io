@@ -52,16 +52,35 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-  <a href="/research/black-holes">
-    <img src="/images/bh1.gif" style="width:100%" >
+    <figure>
+    <a href="/research/black-holes">
+        <img src="/images/bh1.gif" style="width:100%" >
     </a>
-
-  <img src="/images/bh1.gif" style="width:100%">
-  <img src="/images/bh2.gif" style="width:100%">
+    <figcaption>Black holes and physical properties</figcaption>
+    </figure>
+    <!-- -->
+    <figure>
+    <a href="/research/BW-models">
+        <img src="/images/braneworld.gif" style="width:100%" >
+    </a>
+    <figcaption>Braneworld models and solutions</figcaption>
+    </figure>
   </div>
+  <!-- -->
   <div class="column">
-  <img src="/images/bw2.gif" style="width:100%">
-  <img src="/images/cosmo.gif" style="width:100%">
+  <figure>
+    <a href="/research/astrophysics">
+        <img src="/images/bh2.gif" style="width:100%" >
+    </a>
+    <figcaption>Astrophysical supermassive black holes</figcaption>
+    </figure>
+    <!-- -->
+    <figure>
+    <a href="/research/cosmology">
+        <img src="/images/cosmo.gif" style="width:100%" >
+    </a>
+    <figcaption>Cosmology</figcaption>
+    </figure>
   </div>  
 </div>
 

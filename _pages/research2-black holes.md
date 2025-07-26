@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Black hole solutions"
+title: "Black-hole solutions and their properties"
 permalink: /research/black-holes
 author_profile: true
 ---
