@@ -120,13 +120,10 @@ body {
     <a href="/research/astrophysics">
         <img src="/images/bh2.gif" style="width:100%" >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Astrophysical supermassive black holes</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><br><b>Astrophysical supermassive black holes</b><br></figcaption>
     </figure>
   </div>
-  
   <!-- -->
-  <div> </div>
-
   <div class="column">
     <figure>
     <a href="/research/BW-models">
@@ -139,7 +136,7 @@ body {
     <a href="/research/cosmology">
         <img src="/images/cosmo.gif" style="width:100%" >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Cosmology<br></b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><br><b>Cosmology</b><br></figcaption>
     </figure>
   </div>
 </div>
