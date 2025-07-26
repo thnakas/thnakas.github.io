@@ -68,9 +68,15 @@ body {
   font-family: Arial;
 }
 
-.header {
+figure {
+  margin: 0;
   text-align: center;
-  padding: 32px;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .figcaption {
@@ -90,6 +96,7 @@ body {
 
 .column img {
   margin-top: 12px;
+  vertical-align: middle;
 }
 
 /* Clear floats after the columns */
