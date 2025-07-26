@@ -92,7 +92,9 @@ body {
 
 <body>
 
-<h1> Research Areas </h1>
+<div class="header">
+  <h1> Research Areas </h1>
+</div>
 
 <!-- Photo Grid -->
 <div class="row"> 
@@ -101,7 +103,7 @@ body {
     <a href="/research/black-holes">
         <img src="/images/bh1.gif" style="width:100%" >
     </a>
-    <figcaption style="font-size: 20px; text-align: center;"><b>Black holes and their physical properties</b></figcaption>
+    <figcaption style="font-size: 20px; text-align: center;"><b>Black holes and their physical properties in MOG</b></figcaption>
     </figure>
     <!-- -->
     <figure>

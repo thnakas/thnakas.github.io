@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Black holes and their physical properties"
+title: "Black holes and their physical properties in modified gravitational (MOG) theories"
 permalink: /research/black-holes
 author_profile: true
 ---
