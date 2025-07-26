@@ -64,7 +64,7 @@ body {
     <a href="/research/black-holes">
         <img src="/images/bh1.gif" style="width:100%" >
     </a>
-    <figcaption>Black holes and physical properties</figcaption>
+    <figcaption style="font-size: 24px; text-align: center"><b>Black holes and physical properties</b></figcaption>
     </figure>
     <!-- -->
     <figure>
