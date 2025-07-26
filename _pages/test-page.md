@@ -40,6 +40,13 @@ body {
   display: table;
   clear: both;
 }
+
+.figure-caption {
+  font-size: 24px;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
 </style>
 
 <body>
@@ -60,19 +67,19 @@ body {
     </figure>
     <!-- -->
     <figure>
-    <a href="/research/BW-models">
-        <img src="/images/braneworld.gif" style="width:100%" >
-    </a>
-    <figcaption>Braneworld models and solutions</figcaption>
-    </figure>
-  </div>
-  <!-- -->
-  <div class="column">
-  <figure>
     <a href="/research/astrophysics">
         <img src="/images/bh2.gif" style="width:100%" >
     </a>
     <figcaption>Astrophysical supermassive black holes</figcaption>
+    </figure>
+  </div>
+  <!-- -->
+  <div class="column">
+    <figure>
+    <a href="/research/BW-models">
+        <img src="/images/braneworld.gif" style="width:100%" >
+    </a>
+    <figcaption>Braneworld models and solutions</figcaption>
     </figure>
     <!-- -->
     <figure>
