@@ -95,9 +95,9 @@ body {
 
 <body>
 
-<div class="header">
-  <h1> Research Areas </h1>
-</div>
+<!-- <div class="header">  <h1> Research Areas </h1> </div> -->
+
+<h2> Research Areas </h2>
 
 <!-- Photo Grid -->
 <div class="row"> 
