@@ -11,6 +11,9 @@ author_profile: true
 
 <!-- Pie Chart Start -->
 
+<BR>
+<br>
+
 <head>
   <title>Publications Pie Chart</title>
   <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
@@ -132,6 +135,10 @@ body {
 </div>
 
 </body>
+
+<div class="header">
+  <h1> ------- </h1>
+</div>
 
 <!----------------->
 
