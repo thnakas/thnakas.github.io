@@ -128,7 +128,7 @@ body {
     <a href="/research/cosmology">
         <img src="/images/cosmo.gif" style="width:100%" >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Braneworld models, extra dimensions, and solutions</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><b>Cosmology</b></figcaption>
     </figure>
     <figure>
     <a href="/research/cosmology">
