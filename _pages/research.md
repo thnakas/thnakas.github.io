@@ -57,45 +57,41 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 
 <!-- Research Areas -->
 
+
 <style>
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px; /* space between grid items */
+  max-width: 800px;
+  margin: 0 auto; /* center the grid on the page */
+}
+
+figure {
+  text-align: center;
   margin: 0;
-  font-family: Arial;
 }
 
-.header {
-  text-align: center;
-  padding: 32px;
+figure img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
-.figcaption {
-  text-align: center;
-}
-
-.fig-caption {
-  text-align: center;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-.column img {
-  margin-top: 12px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+figcaption {
+  font-size: 16px;
+  margin-top: 8px;
 }
 
 </style>
@@ -107,39 +103,34 @@ body {
 <h1> Research Areas </h1>
 
 <!-- Photo Grid -->
-<div class="row"> 
-  <div class="column">
-    <figure>
+<div class="grid-container">
+  <figure>
     <a href="/research/black-holes">
-        <img src="/images/bh1.gif" style="width:100%" >
+      <img src="/images/bh1.gif" alt="Black holes">
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Black holes and their physical properties in MOG</b></figcaption>
-    </figure>
-    <!-- -->
-    <figure>
+    <figcaption><b>Black holes and their physical properties in MOG</b></figcaption>
+  </figure>
+
+  <figure>
     <a href="/research/astrophysics">
-        <img src="/images/bh2.gif" style="width:100%" >
+      <img src="/images/bh2.gif" alt="Astrophysical black holes">
     </a>
-    <p style="text-align= center;"> sdfdfsdfsf </p>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Astrophysical supermassive black holes</b></figcaption>
-    </figure>
-  </div>
-  <!-- -->
-  <div class="column">
-    <figure>
+    <figcaption><b>Astrophysical supermassive black holes</b></figcaption>
+  </figure>
+
+  <figure>
     <a href="/research/BW-models">
-        <img src="/images/braneworld.gif" style="width:100%" >
+      <img src="/images/braneworld.gif" alt="Braneworld">
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Braneworld models, extra dimensions, and solutions</b></figcaption>
-    </figure>
-    <!-- -->
-    <figure>
+    <figcaption><b>Braneworld models, extra dimensions, and solutions</b></figcaption>
+  </figure>
+
+  <figure>
     <a href="/research/cosmology">
-        <img src="/images/cosmo.gif" style="width:100%" >
+      <img src="/images/cosmo.gif" alt="Cosmology">
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>Cosmology</b></figcaption>
-    </figure>
-  </div>
+    <figcaption><b>Cosmology</b></figcaption>
+  </figure>
 </div>
 
 </body>
