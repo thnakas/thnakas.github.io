@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<!-- Images -->
+<!-- Research Areas -->
 
 <style>
 * {
@@ -86,3 +86,5 @@ body {
 </div>
 
 </body>
+
+<!----------------->
