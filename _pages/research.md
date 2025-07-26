@@ -123,7 +123,10 @@ body {
     <figcaption style="font-size: 16px; text-align: center;"><b>Astrophysical supermassive black holes</b></figcaption>
     </figure>
   </div>
+  
   <!-- -->
+  <div> </div>
+
   <div class="column">
     <figure>
     <a href="/research/BW-models">
