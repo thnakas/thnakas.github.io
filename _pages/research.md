@@ -9,6 +9,8 @@ author_profile: true
 <br>
 <br> -->
 
+<!-- Pie Chart Start -->
+
 <head>
   <title>Publications Pie Chart</title>
   <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
@@ -42,6 +44,124 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 	});
 	chart1.render();
   </script>
+
+<!-- Pie Chart End -->
+
+<BR>
+<br>
+
+<!-- Publication Categories Start -->
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Braneworld Models</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: black;
+      overflow: hidden;
+      height: 100%;
+      font-family: 'Orbitron', sans-serif;
+    }
+
+    a.full-link {
+      display: block;
+      width: 100vw;
+      height: 100vh;
+      text-decoration: none;
+      color: inherit;
+      cursor: pointer;
+    }
+
+    .scene {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: radial-gradient(ellipse at center, #001122 0%, #000000 100%);
+    }
+
+    .brane {
+      position: absolute;
+      width: 90vw;
+      height: 200px;
+      background-image: 
+        linear-gradient(to right, rgba(255,255,255,0.15) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(255,255,255,0.15) 1px, transparent 1px);
+      background-size: 30px 30px;
+      transform: perspective(800px) rotateX(60deg);
+      box-shadow: 0 0 20px #00f2ff88;
+      animation: float 6s ease-in-out infinite;
+    }
+
+    .brane.top {
+      top: 15%;
+      animation-direction: alternate;
+    }
+
+    .brane.bottom {
+      bottom: 15%;
+      animation-direction: alternate-reverse;
+    }
+
+    @keyframes float {
+      0% { transform: perspective(800px) rotateX(60deg) translateY(0); }
+      50% { transform: perspective(800px) rotateX(60deg) translateY(15px); }
+      100% { transform: perspective(800px) rotateX(60deg) translateY(0); }
+    }
+
+    .beam {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to bottom, transparent, #00f2ff22 40%, #00f2ff44 60%, transparent);
+      pointer-events: none;
+      animation: pulse 4s ease-in-out infinite;
+      z-index: 0;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.8; }
+    }
+
+    .title {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #00f2ff;
+      font-size: 3vw;
+      text-align: center;
+      text-shadow: 0 0 10px #00f2ff, 0 0 30px #00f2ff;
+      letter-spacing: 2px;
+      pointer-events: none;
+      z-index: 1;
+    }
+  </style>
+</head>
+<body>
+  <!-- 🔗 MAKE IT CLICKABLE -->
+  <a class="full-link" href="https://your-destination-site.com" target="_blank">
+    <div class="scene">
+      <div class="brane top"></div>
+      <div class="brane bottom"></div>
+      <div class="beam"></div>
+      <div class="title">BRANEWORLD MODELS</div>
+    </div>
+  </a>
+</body>
+
+
+<!-- Publication Categories End -->
+
+
+<BR>
+<br>
+
+<!-- Publication List Start -->
 
 <div align="justify">
 
@@ -163,7 +283,7 @@ Athanasios Bakopoulos, Thanasis Karakasis, Nick E. Mavromatos, <span style="colo
 <BR>
 <br>
 
-<!-- ------------ -->
+<!---------------->
 
 <div align="justify">
 
@@ -533,3 +653,5 @@ Athanasios Bakopoulos and <span style="color:orange">Theodoros Nakas</span>
 </a>
 
 </div>
+
+<!-- Publication List End -->
