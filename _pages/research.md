@@ -562,7 +562,7 @@ Athanasios Bakopoulos and <span style="color:orange">Theodoros Nakas</span>
 
 <div align="justify">
 
-<h2> Conference Papers </h2>
+<h2 style="font-size=26px;"> Conference Papers </h2>
 
 <div align="justify">
 
