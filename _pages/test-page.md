@@ -82,6 +82,10 @@ body {
     </a>
     <figcaption style="font-size: 20px; text-align: center;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cosmology</b></figcaption>
     </figure>
+  </div>
+  <!-- -->
+  <div class="column">
+    <img src="" style="width:100%" >
   </div>  
 </div>
 
