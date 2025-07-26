@@ -90,10 +90,7 @@ body {
 
 <body>
 
-<!-- Header -->
-<div class="header">
-  <h1> ------ </h1>
-</div>
+<h1> Research Areas </h1>
 
 <!-- Photo Grid -->
 <div class="row"> 
