@@ -137,7 +137,7 @@ body {
     <a href="/research/cosmology">
         <img src="/images/cosmo.gif"  >
     </a>
-    <figcaption style="font-size: 16px; text-align: center;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cosmology</b></figcaption>
+    <figcaption style="font-size: 16px; text-align: center;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cosmology</b></figcaption>
     </figure>
   </div>
 </div>
