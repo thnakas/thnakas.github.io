@@ -203,11 +203,14 @@ Athanasios Bakopoulos and <span style="color:orange">Theodoros Nakas</span>
 
 <!---------------->
 
+<BR>
+<br>
+
 <!-- Conference papers List Start -->
 
 <div align="justify">
 
-<h2 style="font-size=50px;"> Conference Papers </h2>
+<h1 style="font-size=50px;"> Conference Papers </h1>
 
 <div align="justify">
 
