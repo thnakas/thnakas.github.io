@@ -82,7 +82,7 @@ body {
 
 /* Create two equal columns that floats next to each other */
 .column {
-  float: left;
+  float: center;
   width: 50%;
   padding: 10px;
 }
@@ -97,8 +97,6 @@ body {
   display: table;
   clear: both;
 }
-
-
 
 </style>
 
