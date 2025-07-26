@@ -72,6 +72,10 @@ body {
   padding: 32px;
 }
 
+.figcaption {
+  text-align: center;
+}
+
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
@@ -89,6 +93,8 @@ body {
   display: table;
   clear: both;
 }
+
+
 
 </style>
 
