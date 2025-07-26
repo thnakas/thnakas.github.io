@@ -11,7 +11,6 @@ author_profile: true
 
 <!-- Pie Chart Start -->
 
-<BR>
 <br>
 
 <head>
