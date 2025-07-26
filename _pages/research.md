@@ -55,9 +55,7 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 
 <!-- Publication Categories End -->
 
-
-<BR>
-<br>
+<!-- <BR> <br> -->
 
 <!-- Publication List Start -->
 
