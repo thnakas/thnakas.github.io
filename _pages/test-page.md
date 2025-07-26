@@ -41,7 +41,7 @@ body {
   clear: both;
 }
 
-.figurecaption {
+.figure-caption {
   font-size: 24px;
   font-weight: bold;
   word-wrap: break-word;
