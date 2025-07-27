@@ -75,7 +75,7 @@ figure {
 
 figure img {
   width: 100%;
-  height: 200px;
+  height: auto;
   display: block;
 }
 
