@@ -285,6 +285,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 <h2> Seminars and Colloquia </h2>
 
 <ul>
+
+   <li> Seminar at the Institute for Basic Science, CTPU-CGA  
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> July 22, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+
+   <br>
+
+   <blockquote> Black holes - A mathematical overview </blockquote>
+
+   </li>
+
+   <br>
+   <br>
    
    <li> Seminar at the Division of Theoretical Physics of the University of Ioannina  
 
