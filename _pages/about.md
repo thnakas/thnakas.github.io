@@ -35,7 +35,6 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <strong> <i class="fa fa-fw fa-calendar"></i> Sep 1-4, 2025: &nbsp;</strong>
     Talk at the <a href="https://indico.physics.auth.gr/event/18/"> <span style="color: skyblue"> 21st conference in the series "Recent Developments in Gravity" (NEB-21) </span> </a>
     </li>
-    <li>
     <br>
     <li>
     <strong> <i class="fa fa-fw fa-calendar"></i> July 22, 2025: &nbsp;</strong>
