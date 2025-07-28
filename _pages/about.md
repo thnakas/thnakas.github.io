@@ -32,15 +32,19 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
   <ul style="list-style: square; padding: 0; margin: 0; line-height: 1.6; color: #333333; text-align: justify;
   text-justify: inter-word;">
     <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> July 7-11, 2025: &nbsp;</strong>
-    Talk at the <a href="https://indico.ibs.re.kr/event/871/"> <span style="color: skyblue"> International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 </span> </a>
-    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea -->
+    <strong> <i class="fa fa-fw fa-calendar"></i> Sep 1-4, 2025: &nbsp;</strong>
+    Talk at the <a href="https://indico.physics.auth.gr/event/18/"> <span style="color: skyblue"> 21st conference in the series "Recent Developments in Gravity" (NEB-21) </span> </a>
+    </li>
+    <li>
+    <br>
+    <li>
+    <strong> <i class="fa fa-fw fa-calendar"></i> July 22, 2025: &nbsp;</strong>
+    Seminar talk at the Institute for Basic Science, CTPU-CGA
     </li>
     <br>
     <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> June 27, 2025: &nbsp;</strong>
-    Seminar talk at the Division of Theoretical Physics of the University of Ioannina
-    <!-- <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Ioannina, Greece -->
+    <strong> <i class="fa fa-fw fa-calendar"></i> July 7-11, 2025: &nbsp;</strong>
+    Talk at the <a href="https://indico.ibs.re.kr/event/871/"> <span style="color: skyblue"> International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 </span> </a>
     </li>
   </ul>
 </section>
