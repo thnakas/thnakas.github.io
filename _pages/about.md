@@ -40,11 +40,6 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
     <strong> <i class="fa fa-fw fa-calendar"></i> July 22, 2025: &nbsp;</strong>
     Seminar talk at the Institute for Basic Science, CTPU-CGA
     </li>
-    <br>
-    <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> July 7-11, 2025: &nbsp;</strong>
-    Talk at the <a href="https://indico.ibs.re.kr/event/871/"> <span style="color: skyblue"> International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 </span> </a>
-    </li>
   </ul>
 </section>
 

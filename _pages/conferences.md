@@ -21,6 +21,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://indico.physics.auth.gr/event/18/"> <span style="color: skyblue"> ΝΕΒ-21: Recent Developments in Gravity </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Sep 1-4, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Corfu, Greece
+
+   <br>
+
+   <blockquote> Black holes in string-inspired Euler-Heisenberg theory </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://indico.ibs.re.kr/event/871/"> <span style="color: skyblue"> International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 </span> </a>
 
    <br>
