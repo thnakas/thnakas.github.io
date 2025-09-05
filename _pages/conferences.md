@@ -31,7 +31,7 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
    <br>
 
-   <blockquote> Black holes in string-inspired Euler-Heisenberg theory </blockquote>
+   <blockquote> Black holes with primary scalar hair </blockquote>
 
    </li>
 
