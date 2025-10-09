@@ -9,10 +9,25 @@ author_profile: true
 
 <div align="justify">
 
-I have participated in over 30 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation.
+I have participated in over 30 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation. One notable mention of a participation in a global event is the following:
+
+<br>
+
+<ul>
+
+   <li> <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> 22nd Science and Technology in Society (STS) forum </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Oct 4-7, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Kyoto, Japan
+
+</ul>
 
 </div>
 
+<br>
 <br>
 
 <div align="justify">
