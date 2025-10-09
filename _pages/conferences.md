@@ -23,6 +23,8 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
    <i class="fa fa-fw fa-calendar"></i> Oct 4-7, 2025 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Kyoto, Japan
 
+   </li>
+
 </ul>
 
 </div>
