@@ -32,6 +32,11 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
   <ul style="list-style: square; padding: 0; margin: 0; line-height: 1.6; color: #333333; text-align: justify;
   text-justify: inter-word;">
     <li>
+    <strong> <i class="fa fa-fw fa-calendar"></i> Oct 5-7, 2025: &nbsp;</strong>
+    Participation in the <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum - 22nd Annual Meeting </span> </a>
+    </li>
+    <br>
+    <li>
     <strong> <i class="fa fa-fw fa-calendar"></i> Sep 1-4, 2025: &nbsp;</strong>
     Talk at the <a href="https://indico.physics.auth.gr/event/18/"> <span style="color: skyblue"> 21st conference in the series "Recent Developments in Gravity" (NEB-21) </span> </a>
     </li>
