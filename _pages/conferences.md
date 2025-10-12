@@ -9,7 +9,7 @@ author_profile: true
 
 <div align="justify">
 
-I have participated in over 30 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation. One notable example of a participation in a global event is the following:
+I have participated in over 30 conferences, workshops, and schools. Below is a list of events where I contributed with either an oral talk or a poster presentation. One notable example of a participation in a world-class event is the following:
 
 <br>
 
