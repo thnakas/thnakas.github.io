@@ -14,13 +14,25 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 <br>
 
 <ul>
-
-   <li> <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum - 22nd Annual Meeting </span> </a>
+   <li> <strong>Young Leaders Program</strong> of the <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum  </span> </a>, where 140 young researchers from diverse disciplines engaged in discussions with <span style="color:orange">12 Nobel Laureates</span>
 
    <br>
    <br>
 
-   <i class="fa fa-fw fa-calendar"></i> Oct 4-7, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-calendar"></i> Oct 4, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Kyoto, Japan
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum - 22nd Annual Meeting </span> </a> main event
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Oct 5-7, 2025 &nbsp;  &nbsp;
    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Kyoto, Japan
 
    </li>

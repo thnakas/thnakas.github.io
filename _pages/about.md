@@ -33,7 +33,7 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
   text-justify: inter-word;">
     <li>
     <strong> <i class="fa fa-fw fa-calendar"></i> Oct 5-7, 2025: &nbsp;</strong>
-    Participation in the <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum - 22nd Annual Meeting </span> </a>
+    Participation in the <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum - 22nd Annual Meeting </span> </a> and the Young Leaders program that took place on Oct 4
     </li>
     <br>
     <li>
