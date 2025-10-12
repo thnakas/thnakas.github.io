@@ -14,7 +14,7 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 <br>
 
 <ul>
-   <li> <strong>Young Leaders Program</strong> of the <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum  </span> </a>, where 140 young researchers from diverse disciplines engaged in discussions with <span style="color:orange">12 Nobel Laureates</span>
+   <li> <strong>Young Leaders Program</strong> of the <a href="https://www.stsforum.org/kyoto2025/"> <span style="color: skyblue"> Science and Technology in Society (STS) forum</span> </a>, where 140 young researchers from diverse disciplines engaged in discussions with <strong><span style="color:orange">12 Nobel Laureates</span></strong>
 
    <br>
    <br>
