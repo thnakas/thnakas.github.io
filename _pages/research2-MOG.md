@@ -7,6 +7,34 @@ author_profile: true
 
 <div align="justify">
 
+<h2><a href="https://arxiv.org/abs/2510.09547">Theoretical filters for shift-symmetric Horndeski gravities</a></h2>
+
+<i class="fa fa-fw fa-calendar"></i> Oct 10, 2025
+
+<br>
+<br> 
+
+Athanasios Bakopoulos, Christos Charmousis, Nikos Chatzifotis, and <span style="color:orange">Theodoros Nakas</span>
+
+<br>
+
+<blockquote> We investigate the structure of nontrivial maximally symmetric vacua and compact-object solutions in shift-symmetric scalar-tensor theories. Focusing on Horndeski gravity, we derive consistency conditions directly from the field equations to identify the subclasses that admit Minkowski and de Sitter vacua with a nontrivial scalar field. In doing so, we obtain a filtering mechanism that operates independently of observational data. In this context, we introduce the notion of stealth vacua, where the scalar field remains active without altering the vacuum. Following this, we examine the theoretical framework of Horndeski theories that admit homogeneous geometries and we extract the implicit form of the solution pertaining to the entire family of theories. Building upon these frameworks, we construct exact solutions in beyond-Horndeski gravity by applying a linear disformal transformation to the regularized Einstein-Gauss-Bonnet black hole. This procedure yields solitonic spacetimes with scalar hair as well as black holes carrying primary scalar hair, demonstrating how disformal maps can qualitatively modify solution properties. We delineate the parameter space in which the transformation is well-defined and analyze the solutions. Our results provide both a principled criterion for selecting viable Horndeski models and a framework for exploring rich solution spaces in beyond-Horndeski gravity. </blockquote>
+
+<a href="https://arxiv.org/abs/2510.09547" class="btn">
+  <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://inspirehep.net/literature/3066827" class="btn">
+  <i class="ai ai-inspire ai-fw"></i> cite 
+</a>
+
+<BR>
+<br>
+
+<!------------------>
+
+<div align="justify">
+
 <h2><a href="https://arxiv.org/abs/2505.02368">Smarr formula for black holes with primary and secondary scalar hair</a></h2>
 
 <i class="fa fa-fw fa-calendar"></i> May 5, 2025
