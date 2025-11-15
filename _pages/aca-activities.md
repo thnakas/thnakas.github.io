@@ -21,5 +21,7 @@ author_profile: true
     <li> <a href="https://epjc.epj.org/"> <span style="color: skyblue"> European Physical Journal C (EPJ C) </span>  </a> </li>
     <li> <a href="https://www.sciencedirect.com/journal/physics-of-the-dark-universe"> <span style="color: skyblue"> Physics of the Dark Universe </span>  </a> </li>
     <li> <a href="https://www.sciencedirect.com/journal/annals-of-physics"> <span style="color: skyblue"> Annals of Physics </span>  </a> </li>
+    <li> <a href="https://www.sciencedirect.com/journal/physics-letters-b"> <span style="color: skyblue"> Physics Letters B </span>  </a> </li>
+    <li> <a href="https://www.sciencedirect.com/journal/nuclear-physics-b"> <span style="color: skyblue"> Nuclear Physics B </span>  </a> </li>
   </ul>
 </div>

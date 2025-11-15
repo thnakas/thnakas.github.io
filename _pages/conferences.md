@@ -49,6 +49,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://indico.ijclab.in2p3.fr/event/12071/"> <span style="color: skyblue"> Contemporary Perspectives on Cosmology and Gravity </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Nov 24-28, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Orsay, France
+
+   <br>
+
+   <blockquote> Theoretical filters for shift-symmetric Horndeski gravities </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://indico.physics.auth.gr/event/18/"> <span style="color: skyblue"> ΝΕΒ-21: Recent Developments in Gravity </span> </a>
 
    <br>
