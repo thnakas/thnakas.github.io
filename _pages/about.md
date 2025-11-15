@@ -33,7 +33,7 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
   text-justify: inter-word;">
     <li>
     <strong> <i class="fa fa-fw fa-calendar"></i> Nov 24-28, 2025: &nbsp;</strong>
-    Talk at the <a href="https://indico.ijclab.in2p3.fr/event/12071/"> <span style="color: skyblue"> Contemporary Perspectives on Cosmology and Gravity 
+    Talk at the workshop <a href="https://indico.ijclab.in2p3.fr/event/12071/"> <span style="color: skyblue"> Contemporary Perspectives on Cosmology and Gravity 
     </span> </a>
     </li>
     <br>
