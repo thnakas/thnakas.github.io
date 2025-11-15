@@ -12,6 +12,8 @@ author_profile: true
   <ul>
     <li> I am a member of the Hellenic Society on Relativity, Gravitation, and Cosmology 
     <a href="http://www.hsrgc.gr/"> <span style="color: skyblue">(www.hsrgc.gr) </span> </a> </li>
+    <li> I am a member of the CosmoVerse - COST Action CA21136 
+    <a href="https://cosmoversetensions.eu/"> <span style="color: skyblue">(cosmoversetensions.eu/) </span> </a> </li>
   </ul>
 
   <h2> <u> Reviewer for International Scientific Journals:  </u> </h2>
