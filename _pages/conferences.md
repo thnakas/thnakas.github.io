@@ -49,6 +49,40 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://sites.google.com/view/non-perturbative-inflation/home"> <span style="color: skyblue"> Non-perturbative methods in inflation </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Dec 15-19, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Barcelona, Spain
+
+   <br>
+
+   <blockquote> Theoretical filters for shift-symmetric Horndeski gravities </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> <a href="https://indico.ibs.re.kr/event/1042/"> <span style="color: skyblue"> String Theory, Gravity, and Cosmology 2025 </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Dec 2-5, 2025 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Pohang, South Korea
+
+   <br>
+
+   <blockquote> Theoretical filters for shift-symmetric Horndeski gravities </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://indico.ijclab.in2p3.fr/event/12071/"> <span style="color: skyblue"> Contemporary Perspectives on Cosmology and Gravity </span> </a>
 
    <br>
