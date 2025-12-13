@@ -24,6 +24,10 @@ Thomas D. Pappas and <span style="color:orange">Theodoros Nakas</span>
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
+<a href="https://doi.org/10.1007/JHEP12(2025)090" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
 <a href="https://inspirehep.net/literature/2863340" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>

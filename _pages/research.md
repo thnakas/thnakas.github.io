@@ -38,9 +38,9 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 			toolTipContent: "<b>{label}</b>: #percent %",
 			legendText: "{label}",
 			dataPoints: [
-				{  y: 14, label: "Peer-Reviewed" },
+				{  y: 15, label: "Peer-Reviewed" },
         {  y: 1,  label: "Conference papers" },
-				{  y: 2,  label: "Preprints (Under review)"}
+				{  y: 1,  label: "Preprints (Under review)"}
 			]
 		}
 		]
@@ -271,6 +271,10 @@ Thomas D. Pappas and <span style="color:orange">Theodoros Nakas</span>
 
 <a href="https://arxiv.org/pdf/2412.19773" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://doi.org/10.1007/JHEP12(2025)090" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
 <a href="https://inspirehep.net/literature/2863340" class="btn">
