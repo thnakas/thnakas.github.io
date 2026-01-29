@@ -24,6 +24,10 @@ Athanasios Bakopoulos, Christos Charmousis, Nikos Chatzifotis, and <span style="
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
 </a>
 &nbsp;
+<a href="https://journals.aps.org/prd/abstract/10.1103/ff4t-dfy4" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
+</a>
+&nbsp;
 <a href="https://inspirehep.net/literature/3066827" class="btn">
   <i class="ai ai-inspire ai-fw"></i> cite 
 </a>

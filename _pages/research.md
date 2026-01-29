@@ -38,9 +38,9 @@ var chart1 = new CanvasJS.Chart("chartContainer1", {
 			toolTipContent: "<b>{label}</b>: #percent %",
 			legendText: "{label}",
 			dataPoints: [
-				{  y: 15, label: "Peer-Reviewed" },
+				{  y: 16, label: "Peer-Reviewed" },
         {  y: 1,  label: "Conference papers" },
-				{  y: 1,  label: "Preprints (Under review)"}
+				{  y: 0,  label: "Preprints (Under review)"}
 			]
 		}
 		]
@@ -179,6 +179,10 @@ Athanasios Bakopoulos, Christos Charmousis, Nikos Chatzifotis, and <span style="
 
 <a href="https://arxiv.org/pdf/2510.09547" class="btn">
   <i class="ai ai-arxiv ai-fw icon-pad-right"></i> arXiv-pdf
+</a>
+&nbsp;
+<a href="https://journals.aps.org/prd/abstract/10.1103/ff4t-dfy4" class="btn">
+  <i class="fa fa-fw fa-link"></i> DOI
 </a>
 &nbsp;
 <a href="https://inspirehep.net/literature/3066827" class="btn">
