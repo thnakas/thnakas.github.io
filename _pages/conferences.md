@@ -49,6 +49,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://sites.google.com/view/non-perturbative-inflation/home"> <span style="color: skyblue"> High1 Workshop on Particles, Strings, and Cosmology </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Feb 1-7, 2026 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Jeongseon, South Korea
+
+   <br>
+
+   <blockquote> Black holes with primary scalar hair </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://sites.google.com/view/non-perturbative-inflation/home"> <span style="color: skyblue"> Non-perturbative methods in inflation </span> </a>
 
    <br>

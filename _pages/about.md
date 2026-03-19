@@ -32,8 +32,8 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
   <ul style="list-style: square; padding: 0; margin: 0; line-height: 1.6; color: #333333; text-align: justify;
   text-justify: inter-word;">
     <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> Dec 15-19, 2025: &nbsp;</strong>
-    Talk at the workshop <a href="https://sites.google.com/view/non-perturbative-inflation/home"> <span style="color: skyblue"> Non-perturbative methods in inflation 
+    <strong> <i class="fa fa-fw fa-calendar"></i> Mar 18, 2026: &nbsp;</strong>
+    New paper out: <a href="https://arxiv.org/pdf/2603.17607"> <span style="color: skyblue"> RABBITS – III. Modelling realistic accretion disks around spinning black holes in galaxy formation simulations 
     </span> </a>
     </li>
     <br>
