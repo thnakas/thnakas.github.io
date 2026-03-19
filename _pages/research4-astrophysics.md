@@ -8,7 +8,7 @@ author_profile: true
 <div align="justify">
 
 <h2><a href="https://arxiv.org/pdf/2603.17607">RABBITS – III. MODELLING RELATIVISTIC ACCRETION DISCS AROUND SPINNING BLACK HOLES IN GALAXY FORMATION SIMULATIONS</a></h2>
-
+ 
 <i class="fa fa-fw fa-calendar"></i> Mar 18, 2026
 
 <br>
