@@ -288,7 +288,7 @@ figure img {
 
 <h1 style="font-size=50px;"> Conference Papers </h1>
 
-{% include_relative publications/conf-paper-1-2025.md %}
+{% include_relative conference-papers/conf-paper-1-2025.md %}
 
 <BR>
 <br>

@@ -62,6 +62,6 @@ author_profile: true
 
 <!-- Conference papers List Start -->
 
-{% include_relative publications/conf-paper-1-2025.md %}
+{% include_relative conference-papers/conf-paper-1-2025.md %}
 
 <!-- Conference papers List End -->
