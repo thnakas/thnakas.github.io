@@ -32,20 +32,20 @@ Within the realm of modified gravitational theories and extra dimensions, I spec
   <ul style="list-style: square; padding: 0; margin: 0; line-height: 1.6; color: #333333; text-align: justify;
   text-justify: inter-word;">
     <li>
+     <strong> <i class="fa fa-fw fa-calendar"></i> June 17, 2026: &nbsp;</strong>
+    Gave an online seminar at <a href="https://sites.google.com/view/intersgc/home"> <span style="color: skyblue"> Intercontinental Seminars on Gravity and Cosmology 
+    </span> </a>
+    </li>
+    <br>
+    <li>
+    <strong> <i class="fa fa-fw fa-calendar"></i> June 8-14, 2026: &nbsp;</strong>
+    Talk at the workshop <a href="https://indico.cern.ch/event/1645696/"> <span style="color: skyblue"> Athens Symposium on Exploring the Universe (ATHEXIS) 2026 
+    </span> </a>
+    </li>
+    <br>
+    <li>
     <strong> <i class="fa fa-fw fa-calendar"></i> Mar 18, 2026: &nbsp;</strong>
     New paper out: <a href="https://arxiv.org/pdf/2603.17607"> <span style="color: skyblue"> RABBITS – III. Modelling realistic accretion disks around spinning black holes in galaxy formation simulations 
-    </span> </a>
-    </li>
-    <br>
-    <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> Dec 2-5, 2025: &nbsp;</strong>
-    Talk at the workshop <a href="https://indico.ibs.re.kr/event/1042/"> <span style="color: skyblue"> String Theory, Gravity, and Cosmology 2025 
-    </span> </a>
-    </li>
-    <br>
-    <li>
-    <strong> <i class="fa fa-fw fa-calendar"></i> Nov 24-28, 2025: &nbsp;</strong>
-    Talk at the workshop <a href="https://indico.ijclab.in2p3.fr/event/12071/"> <span style="color: skyblue"> Contemporary Perspectives on Cosmology and Gravity 
     </span> </a>
     </li>
   </ul>

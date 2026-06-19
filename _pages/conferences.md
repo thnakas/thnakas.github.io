@@ -49,6 +49,40 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 
 <ul>
 
+   <li> <a href="https://indico.cern.ch/event/1645696/"> <span style="color: skyblue"> Athens symposium on Exploring the Universe (ATHEXIS) 2026 </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> June 8-14, 2026 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Athens, Greece
+
+   <br>
+
+   <blockquote> Scalar hair in black holes: From singular to regular solutions and their stability </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
+   <li> <a href="https://www.kps.or.kr/conference/event/"> <span style="color: skyblue"> 2026 KPS Spring Meeting </span> </a>
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> Apr 21-24, 2026 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Daejeon, South Korea
+
+   <br>
+
+   <blockquote> Black holes with primary scalar hair </blockquote>
+
+   </li>
+
+   <br>
+   <br>
+
    <li> <a href="https://sites.google.com/view/non-perturbative-inflation/home"> <span style="color: skyblue"> High1 Workshop on Particles, Strings, and Cosmology </span> </a>
 
    <br>
@@ -398,6 +432,23 @@ I have participated in over 30 conferences, workshops, and schools. Below is a l
 <h2> Seminars and Colloquia </h2>
 
 <ul>
+
+   <li> <a href="https://sites.google.com/view/intersgc"> <span style="color: skyblue"> Intercontinental Seminar on Gravity and Cosmology </span> </a>  
+
+   <br>
+   <br>
+
+   <i class="fa fa-fw fa-calendar"></i> June 17, 2026 &nbsp;  &nbsp;
+   <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Online
+
+   <br>
+
+   <blockquote> Scalar hair in black holes: From singular to regular solutions and their stability </blockquote>
+
+   </li>
+
+   <br>
+   <br>
 
    <li> Seminar at the Institute for Basic Science, CTPU-CGA  
 
