@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research & publications"
+title: "Research & Publications"
 permalink: /research/
 author_profile: true
 ---
@@ -24,7 +24,7 @@ author_profile: true
 var chart1 = new CanvasJS.Chart("chartContainer1", {
 		theme: "dark1",
 		title: {
-			text: "_publications"
+			text: "Publications"
 		},		
     animationEnabled: true,
     animationDuration: 2000,
