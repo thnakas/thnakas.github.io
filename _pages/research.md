@@ -724,6 +724,9 @@ Athanasios Bakopoulos and <span style="color:orange">Theodoros Nakas</span>
 <BR>
 <br>
 
+
+{% include ../research/2402.12459.md" %}
+
 <!---------------->
 
 <!-- Publication List End -->
