@@ -164,119 +164,119 @@ figure img {
 
 <!---------------->
 
-{% include_relative publications/paper-17-2603.17607.md %}
+{% include_relative publications/paper-17-2603-17607.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-16-2510.09547.md %}
+{% include_relative publications/paper-16-2510-09547.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-15-2505.02368.md %}
+{% include_relative publications/paper-15-2505-02368.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-14-2504.01669.md %}
+{% include_relative publications/paper-14-2504-01669.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-13-2412.19773.md %}
+{% include_relative publications/paper-13-2412-19773.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-12-2402.12459.md %}
+{% include_relative publications/paper-12-2402-12459.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-11-2312.17198.md %}
+{% include_relative publications/paper-11-2312-17198.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-10-2310.11919.md %}
+{% include_relative publications/paper-10-2310-11919.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-9-2309.00873.md %}
+{% include_relative publications/paper-9-2309-00873.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-8-2303.09116.md %}
+{% include_relative publications/paper-8-2303-09116.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-7-2107.05656.md %}
+{% include_relative publications/paper-7-2107-05656.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-6-2105.06915.md %}
+{% include_relative publications/paper-6-2105-06915.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-5-2012.09199.md %}
+{% include_relative publications/paper-5-2012-09199.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-4-2010.00025.md %}
+{% include_relative publications/paper-4-2010-00025.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-3-2001.07226.md %}
+{% include_relative publications/paper-3-2001-07226.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-2-1904.00216.md %}
+{% include_relative publications/paper-2-1904-00216.md %}
 
 <BR>
 <br>
 
 <!---------------->
 
-{% include_relative publications/paper-1-1807.06880.md %}
+{% include_relative publications/paper-1-1807-06880.md %}
 
 
 <!-- Publication List End -->
