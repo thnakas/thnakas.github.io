@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research & _publications"
+title: "Research & publications"
 permalink: /research/
 author_profile: true
 ---
@@ -281,6 +281,7 @@ figure img {
 
 <!-- Publication List End -->
 
+<BR>
 <BR>
 <BR>
 
